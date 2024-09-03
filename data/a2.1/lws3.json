@@ -1,0 +1,134 @@
+[
+    {
+      "Word": "sympathisch",
+      "Translation": "likeable",
+      "Example Sentence": "Anna sieht sehr ______ aus.",
+      "Answer": "sympathisch"
+    },
+    {
+      "Word": "das Mitglied, -er",
+      "Translation": "member",
+      "Example Sentence": "Welches _ ist besonders wichtig für Sie?",
+      "Answer": "Familienmitglied"
+    },
+    {
+      "Word": "die Wohngemeinschaft, -en (WG)",
+      "Translation": "shared apartment",
+      "Example Sentence": "Im dritten Stock wohnt ______.",
+      "Answer": "die Wohngemeinschaft"
+    },
+    {
+      "Word": "wahrscheinlich",
+      "Translation": "probably",
+      "Example Sentence": "Das ist ______ die WG.",
+      "Answer": "wahrscheinlich"
+    },
+    {
+      "Word": "das Dach, -er",
+      "Translation": "roof",
+      "Example Sentence": "In ______ wohnt der Single.",
+      "Answer": "der Dachwohnung"
+    },
+    {
+      "Word": "bisher",
+      "Translation": "so far",
+      "Example Sentence": "Hristo Radev hat ______ bei seinem Bruder gewohnt.",
+      "Answer": "bisher"
+    },
+    {
+      "Word": "verschieden",
+      "Translation": "different",
+      "Example Sentence": "Luisa, Teresa und Patricia kommen aus ______ Ländern.",
+      "Answer": "verschiedenen"
+    },
+    {
+      "Word": "das Viertel, -",
+      "Translation": "neighborhood",
+      "Example Sentence": "In unsere_ ______ werden jeden Monat neue Häuser fertig.",
+      "Answer": "unserem Viertel"
+    },
+    {
+      "Word": "der Mieter, - / die Mieterin, -nen",
+      "Translation": "tenant (male, female)",
+      "Example Sentence": "Vor einer Woche sind ______ eingezogen.",
+      "Answer": "die Mieter"
+    },
+    {
+      "Word": "einziehen (ist eingezogen)",
+      "Translation": "to move in",
+      "Example Sentence": "Vor einer Woche sind die Mieter ______.",
+      "Answer": "eingezogen"
+    },
+    {
+      "Word": "das Mal, -e",
+      "Translation": "time (occurrence)",
+      "Example Sentence": "Ich wohne zum ersten ______ allein.",
+      "Answer": "Mal"
+    },
+    {
+      "Word": "komisch",
+      "Translation": "strange",
+      "Example Sentence": "Das ist noch ein bisschen ______ für mich.",
+      "Answer": "komisch"
+    },
+    {
+      "Word": "jemand",
+      "Translation": "someone",
+      "Example Sentence": "Dort ist immer ______ da.",
+      "Answer": "jemand"
+    },
+    {
+      "Word": "reichen (hat gereicht)",
+      "Translation": "to be enough",
+      "Example Sentence": "Das ______ uns.",
+      "Answer": "reicht"
+    },
+    {
+      "Word": "teilen (hat geteilt)",
+      "Translation": "to share",
+      "Example Sentence": "Wir ______ uns die Zeit: Eine Woche ist Ella bei mir, dann eine Woche bei ihrem Vater.",
+      "Answer": "teilen"
+    },
+    {
+      "Word": "ausziehen (ist ausgezogen)",
+      "Translation": "to move out",
+      "Example Sentence": "Alle sind ______ und wir brauchen nicht mehr soviel Platz.",
+      "Answer": "ausgezogen"
+    },
+    {
+      "Word": "der Platz (Sg.)",
+      "Translation": "space",
+      "Example Sentence": "Alle sind ausgezogen, und wir brauchen nicht mehr so viel ______.",
+      "Answer": "Platz"
+    },
+    {
+      "Word": "jeder (jedes, jede)",
+      "Translation": "every",
+      "Example Sentence": "______ von uns hat ihr eigenes Zimmer.",
+      "Answer": "Jeder"
+    },
+    {
+      "Word": "benutzen (hat benutzt)",
+      "Translation": "to use",
+      "Example Sentence": "Aber die Küche und das Bad ______ wir gemeinsam.",
+      "Answer": "benutzen"
+    },
+    {
+      "Word": "gemeinsam",
+      "Translation": "together",
+      "Example Sentence": "Aber die Küche und das Bad benutzen wir ______.",
+      "Answer": "gemeinsam"
+    },
+    {
+      "Word": "sonst",
+      "Translation": "otherwise",
+      "Example Sentence": "Ich möchte aber auch ______ nicht allein wohnen.",
+      "Answer": "sonst"
+    },
+    {
+      "Word": "nun",
+      "Translation": "now",
+      "Example Sentence": "______ komme ich nach Hause und es ist fast immer jemand da.",
+      "Answer": "Nun"
+    }
+]

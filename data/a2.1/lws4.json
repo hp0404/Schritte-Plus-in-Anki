@@ -1,0 +1,38 @@
+[
+    {
+      "Word": "normalerweise",
+      "Translation": "normally",
+      "Example Sentence": "Wir treffen uns ______ in der Küche.",
+      "Answer": "normalerweise"
+    },
+    {
+      "Word": "schwanger",
+      "Translation": "pregnant",
+      "Example Sentence": "Frau Wasilewski ist ______.",
+      "Answer": "schwanger"
+    },
+    {
+      "Word": "der Schwiegervater, -",
+      "Translation": "father-in-law",
+      "Example Sentence": "Mein ______ lebt in der Türkei.",
+      "Answer": "Schwiegervater"
+    },
+    {
+      "Word": "die Schwiegermutter, -",
+      "Translation": "mother-in-law",
+      "Example Sentence": "Meine ______ lebt in der Türkei.",
+      "Answer": "Schwiegermutter"
+    },
+    {
+      "Word": "der Haushalt, -e",
+      "Translation": "household",
+      "Example Sentence": "Sie hilft ihrer Tochter im ______.",
+      "Answer": "Haushalt"
+    },
+    {
+      "Word": "die Rente, -n",
+      "Translation": "pension",
+      "Example Sentence": "Mein Vater ist seit zwei Jahren in ______.",
+      "Answer": "Rente"
+    }
+  ]

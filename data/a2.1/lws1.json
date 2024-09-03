@@ -1,0 +1,116 @@
+[
+    {
+      "Word": "glücklich",
+      "Translation": "happy",
+      "Example Sentence": "Tim ist ______.",
+      "Answer": "glücklich"
+    },
+    {
+      "Word": "an-sehen, du siehst an, er sieht an (hat angesehen)",
+      "Translation": "to look at",
+      "Example Sentence": "Tim _ sich Fotos von Lara _.",
+      "Answer": "sieht, an"
+    },
+    {
+      "Word": "der Nachbar, -n / die Nachbarin, -nen",
+      "Translation": "neighbor",
+      "Example Sentence": "Die beiden Personen im Supermarkt sind ______ von Tim.",
+      "Answer": "Nachbarn"
+    },
+    {
+      "Word": "der Einkauf, -e",
+      "Translation": "shopping",
+      "Example Sentence": "Tim geht es nach _ besser.",
+      "Answer": "dem Einkauf"
+    },
+    {
+      "Word": "klappen (hat geklappt)",
+      "Translation": "to work out",
+      "Example Sentence": "Es hat ______: Tim hat im Hotel ein Zimmer für Mitarbeiter bekommen.",
+      "Answer": "geklappt"
+    },
+    {
+      "Word": "das Zentrum, Zentren",
+      "Translation": "center",
+      "Example Sentence": "Bis zum Hotel im ______ muss Tim vierzig Minuten fahren.",
+      "Answer": "Zentrum"
+    },
+    {
+      "Word": "das Gefühl, -e",
+      "Translation": "feeling",
+      "Example Sentence": "Tim hat ______: 'Ich bin allein.'",
+      "Answer": "das Gefühl"
+    },
+    {
+      "Word": "der Anfang, -e",
+      "Translation": "beginning",
+      "Example Sentence": "Aller ______ ist schwer.",
+      "Answer": "Anfang"
+    },
+    {
+      "Word": "vermissen (hat vermisst)",
+      "Translation": "to miss",
+      "Example Sentence": "Ich ______ meine Familie sehr.",
+      "Answer": "vermisse"
+    },
+    {
+      "Word": "weil",
+      "Translation": "because",
+      "Example Sentence": "Ich bin traurig, ______ ich hier keinen Menschen kenne.",
+      "Answer": "weil"
+    },
+    {
+      "Word": "der Mensch, -en",
+      "Translation": "person, human",
+      "Example Sentence": "Ich bin traurig, weil ich hier keinen ______ kenne.",
+      "Answer": "Menschen"
+    },
+    {
+      "Word": "der Arbeitgeber, - / die Arbeitgeberin, -nen",
+      "Translation": "employer",
+      "Example Sentence": "Mein ______ zieht um.",
+      "Answer": "Arbeitgeber"
+    },
+    {
+      "Word": "um-ziehen (ist umgezogen)",
+      "Translation": "to move (house)",
+      "Example Sentence": "Mein Arbeitgeber ______.",
+      "Answer": "zieht um"
+    },
+    {
+      "Word": "(sich) kennen-lernen (hat kennengelernt)",
+      "Translation": "to get to know",
+      "Example Sentence": "Ich habe schon zwei Nachbarn ______.",
+      "Answer": "kennengelernt"
+    },
+    {
+      "Word": "gestern",
+      "Translation": "yesterday",
+      "Example Sentence": "Ich war ______ Abend nach dem Umzug sehr müde.",
+      "Answer": "gestern"
+    },
+    {
+      "Word": "der Umzug, -e",
+      "Translation": "move",
+      "Example Sentence": "Ich war gestern Abend nach ______ sehr müde.",
+      "Answer": "dem Umzug"
+    },
+    {
+      "Word": "die Sachen (Pl.)",
+      "Translation": "things",
+      "Example Sentence": "Ich habe nur noch ein paar ______ ausgepackt.",
+      "Answer": "Sachen"
+    },
+    {
+      "Word": "aus-packen (hat ausgepackt)",
+      "Translation": "to unpack",
+      "Example Sentence": "Ich habe nur noch ein paar Sachen ______.",
+      "Answer": "ausgepackt"
+    },
+    {
+      "Word": "ein-schlafen, du schläfst ein, er schläft ein (ist eingeschlafen)",
+      "Translation": "to fall asleep",
+      "Example Sentence": "Meine Nachbarn haben laut Musik gehört, aber ich bin sofort ______.",
+      "Answer": "eingeschlafen"
+    }
+]
