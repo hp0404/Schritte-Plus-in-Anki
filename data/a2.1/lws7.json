@@ -1,146 +1,146 @@
 [
     {
-      "Word": "die Einfahrt, -en",
-      "Translation": "driveway",
-      "Example Sentence": "Das ist doch Ihr Auto in ______.",
-      "Answer": "der Einfahrt"
+        "Word": "die Einfahrt, -en",
+        "Translation": "driveway",
+        "Example Sentence": "Das ist doch Ihr Auto in ______.",
+        "Answer": "der Einfahrt"
     },
     {
-      "Word": "der Hof, -e",
-      "Translation": "courtyard",
-      "Example Sentence": "Das Abstellen von Autos ______ ist verboten.",
-      "Answer": "im Hof"
+        "Word": "der Hof, -e",
+        "Translation": "courtyard",
+        "Example Sentence": "Das Abstellen von Autos ______ ist verboten.",
+        "Answer": "im Hof"
     },
     {
-      "Word": "kündigen (hat gekündigt)",
-      "Translation": "to terminate",
-      "Example Sentence": "Ich ______ meinen Mietvertrag für die Wohnung in der Friesenstraße 28.",
-      "Answer": "kündige"
+        "Word": "kündigen (hat gekündigt)",
+        "Translation": "to terminate",
+        "Example Sentence": "Ich ______ meinen Mietvertrag für die Wohnung in der Friesenstraße 28.",
+        "Answer": "kündige"
     },
     {
-      "Word": "der Vertrag, -e",
-      "Translation": "contract",
-      "Example Sentence": "________ ist befristet.",
-      "Answer": "Der Mietvertrag"
+        "Word": "der Vertrag, -e",
+        "Translation": "contract",
+        "Example Sentence": "________ ist befristet.",
+        "Answer": "Der Mietvertrag"
     },
     {
-      "Word": "hoffen (hat gehofft)",
-      "Translation": "to hope",
-      "Example Sentence": "Wir ______ auf Ihr Verständnis.",
-      "Answer": "hoffen"
+        "Word": "hoffen (hat gehofft)",
+        "Translation": "to hope",
+        "Example Sentence": "Wir ______ auf Ihr Verständnis.",
+        "Answer": "hoffen"
     },
     {
-      "Word": "das Verständnis (Sg.)",
-      "Translation": "understanding",
-      "Example Sentence": "Vielen Dank für Ihr ______.",
-      "Answer": "Verständnis"
+        "Word": "das Verständnis (Sg.)",
+        "Translation": "understanding",
+        "Example Sentence": "Vielen Dank für Ihr ______.",
+        "Answer": "Verständnis"
     },
     {
-      "Word": "abschließen (hat abgeschlossen)",
-      "Translation": "to complete",
-      "Example Sentence": "Die Modernisierung im Haus ist ______.",
-      "Answer": "abgeschlossen"
+        "Word": "abschließen (hat abgeschlossen)",
+        "Translation": "to complete",
+        "Example Sentence": "Die Modernisierung im Haus ist ______.",
+        "Answer": "abgeschlossen"
     },
     {
-      "Word": "niedrig",
-      "Translation": "low",
-      "Example Sentence": "Wir freuen uns über ______ Heizkosten.",
-      "Answer": "niedrige"
+        "Word": "niedrig",
+        "Translation": "low",
+        "Example Sentence": "Wir freuen uns über ______ Heizkosten.",
+        "Answer": "niedrige"
     },
     {
-      "Word": "die Kosten (Pl.)",
-      "Translation": "costs",
-      "Example Sentence": "Wir freuen uns über niedrige ______.",
-      "Answer": "Heizkosten"
+        "Word": "die Kosten (Pl.)",
+        "Translation": "costs",
+        "Example Sentence": "Wir freuen uns über niedrige ______.",
+        "Answer": "Heizkosten"
     },
     {
-      "Word": "(sich) erhöhen (hat erhöht)",
-      "Translation": "to increase",
-      "Example Sentence": "Ab dem 1. September ______ Ihre Kaltmiete auf 458 Euro.",
-      "Answer": "erhöht sich"
+        "Word": "(sich) erhöhen (hat erhöht)",
+        "Translation": "to increase",
+        "Example Sentence": "Ab dem 1. September ______ Ihre Kaltmiete auf 458 Euro.",
+        "Answer": "erhöht sich"
     },
     {
-      "Word": "entfernen (hat entfernt)",
-      "Translation": "to remove",
-      "Example Sentence": "Bitte ______ Sie Möbel und Gegenstände von den Heizungen.",
-      "Answer": "entfernen"
+        "Word": "entfernen (hat entfernt)",
+        "Translation": "to remove",
+        "Example Sentence": "Bitte ______ Sie Möbel und Gegenstände von den Heizungen.",
+        "Answer": "entfernen"
     },
     {
-      "Word": "der Gegenstand, -e",
-      "Translation": "object",
-      "Example Sentence": "Bitte entfernen Sie Möbel und ______ von den Heizungen.",
-      "Answer": "Gegenstände"
+        "Word": "der Gegenstand, -e",
+        "Translation": "object",
+        "Example Sentence": "Bitte entfernen Sie Möbel und ______ von den Heizungen.",
+        "Answer": "Gegenstände"
     },
     {
-      "Word": "heizen (hat geheizt)",
-      "Translation": "to heat",
-      "Example Sentence": "Wir freuen uns auf niedrige ______.",
-      "Answer": "Heizkosten"
+        "Word": "heizen (hat geheizt)",
+        "Translation": "to heat",
+        "Example Sentence": "Wir freuen uns auf niedrige ______.",
+        "Answer": "Heizkosten"
     },
     {
-      "Word": "der Kinderwagen, -",
-      "Translation": "babz carriage",
-      "Example Sentence": "______ und Fahrräder darf man nicht vor den Aufzug stellen.",
-      "Answer": "Kinderwagen"
+        "Word": "der Kinderwagen, -",
+        "Translation": "babz carriage",
+        "Example Sentence": "______ und Fahrräder darf man nicht vor den Aufzug stellen.",
+        "Answer": "Kinderwagen"
     },
     {
-      "Word": "der Aufzug, -e",
-      "Translation": "elevator",
-      "Example Sentence": "Kinderwagen und Fahrräder darf man nicht vor ______ stellen.",
-      "Answer": "den Aufzug"
+        "Word": "der Aufzug, -e",
+        "Translation": "elevator",
+        "Example Sentence": "Kinderwagen und Fahrräder darf man nicht vor ______ stellen.",
+        "Answer": "den Aufzug"
     },
     {
-      "Word": "die Treppe, -n",
-      "Translation": "stairs",
-      "Example Sentence": "Kinderwagen und Fahrräder muss man unter ______ stellen.",
-      "Answer": "die Treppe"
+        "Word": "die Treppe, -n",
+        "Translation": "stairs",
+        "Example Sentence": "Kinderwagen und Fahrräder muss man unter ______ stellen.",
+        "Answer": "die Treppe"
     },
     {
-      "Word": "der Briefkasten, -",
-      "Translation": "mailbox",
-      "Example Sentence": "______ ist kaputt.",
-      "Answer": "Der Briefkasten"
+        "Word": "der Briefkasten, -",
+        "Translation": "mailbox",
+        "Example Sentence": "______ ist kaputt.",
+        "Answer": "Der Briefkasten"
     },
     {
-      "Word": "die Lösung, -en",
-      "Translation": "solution",
-      "Example Sentence": "Finden Sie ______ für das Problem.",
-      "Answer": "eine Lösung"
+        "Word": "die Lösung, -en",
+        "Translation": "solution",
+        "Example Sentence": "Finden Sie ______ für das Problem.",
+        "Answer": "eine Lösung"
     },
     {
-      "Word": "ziemlich",
-      "Translation": "quite",
-      "Example Sentence": "Das Treppenhaus ist ______ schmutzig.",
-      "Answer": "ziemlich"
+        "Word": "ziemlich",
+        "Translation": "quite",
+        "Example Sentence": "Das Treppenhaus ist ______ schmutzig.",
+        "Answer": "ziemlich"
     },
     {
-      "Word": "recht haben (hat recht gehabt)",
-      "Translation": "to be right",
-      "Example Sentence": "Da haben Sie ______.",
-      "Answer": "recht"
+        "Word": "recht haben (hat recht gehabt)",
+        "Translation": "to be right",
+        "Example Sentence": "Da haben Sie ______.",
+        "Answer": "recht"
     },
     {
-      "Word": "die Frage, -n",
-      "Translation": "question",
-      "Example Sentence": "Ich habe ______: ...",
-      "Answer": "eine Frage"
+        "Word": "die Frage, -n",
+        "Translation": "question",
+        "Example Sentence": "Ich habe ______: ...",
+        "Answer": "eine Frage"
     },
     {
-      "Word": "die Bitte, -n",
-      "Translation": "request",
-      "Example Sentence": "Ich habe ______: ...",
-      "Answer": "eine Bitte"
+        "Word": "die Bitte, -n",
+        "Translation": "request",
+        "Example Sentence": "Ich habe ______: ...",
+        "Answer": "eine Bitte"
     },
     {
-      "Word": "die Absicht, -en",
-      "Translation": "intention",
-      "Example Sentence": "Oh Entschuldigung. Das war keine ______.",
-      "Answer": "Absicht"
+        "Word": "die Absicht, -en",
+        "Translation": "intention",
+        "Example Sentence": "Oh Entschuldigung. Das war keine ______.",
+        "Answer": "Absicht"
     },
     {
-      "Word": "die Schicht, -en",
-      "Translation": "shift",
-      "Example Sentence": "Ich habe ______ und muss schon um halb sechs weg.",
-      "Answer": "Frühschicht"
+        "Word": "die Schicht, -en",
+        "Translation": "shift",
+        "Example Sentence": "Ich habe ______ und muss schon um halb sechs weg.",
+        "Answer": "Frühschicht"
     }
 ]

@@ -1,128 +1,128 @@
 [
     {
-      "Word": "die Energie (Sg.)",
-      "Translation": "energy",
-      "Example Sentence": "Glühbirnen brauchen viel ______.",
-      "Answer": "Energie"
+        "Word": "die Energie (Sg.)",
+        "Translation": "energy",
+        "Example Sentence": "Glühbirnen brauchen viel ______.",
+        "Answer": "Energie"
     },
     {
-      "Word": "selbst",
-      "Translation": "by oneself",
-      "Example Sentence": "Warum kann Frau Sicinski die Glühbirne nicht ______ wechseln?",
-      "Answer": "selbst"
+        "Word": "selbst",
+        "Translation": "by oneself",
+        "Example Sentence": "Warum kann Frau Sicinski die Glühbirne nicht ______ wechseln?",
+        "Answer": "selbst"
     },
     {
-      "Word": "wechseln (hat gewechselt)",
-      "Translation": "to change",
-      "Example Sentence": "Warum kann Frau Sicinski die Glühbirne nicht selbst ______?",
-      "Answer": "wechseln"
+        "Word": "wechseln (hat gewechselt)",
+        "Translation": "to change",
+        "Example Sentence": "Warum kann Frau Sicinski die Glühbirne nicht selbst ______?",
+        "Answer": "wechseln"
     },
     {
-      "Word": "die Decke, -n",
-      "Translation": "ceiling",
-      "Example Sentence": "Weil sie an ______ hängt.",
-      "Answer": "der Decke"
+        "Word": "die Decke, -n",
+        "Translation": "ceiling",
+        "Example Sentence": "Weil sie an ______ hängt.",
+        "Answer": "der Decke"
     },
     {
-      "Word": "hängen (hat gehangen/hat gehängt)",
-      "Translation": "to hang",
-      "Example Sentence": "Weil sie an der Decke _.",
-      "Answer": "hängt"
+        "Word": "hängen (hat gehangen/hat gehängt)",
+        "Translation": "to hang",
+        "Example Sentence": "Weil sie an der Decke _.",
+        "Answer": "hängt"
     },
     {
-      "Word": "der Dank (Sg.)",
-      "Translation": "thanks",
-      "Example Sentence": "Was gibt Frau Sicinski Tim zu_ ______ und warum?",
-      "Answer": "zum Dank"
+        "Word": "der Dank (Sg.)",
+        "Translation": "thanks",
+        "Example Sentence": "Was gibt Frau Sicinski Tim zu_ ______ und warum?",
+        "Answer": "zum Dank"
     },
     {
-      "Word": "nichts",
-      "Translation": "nothing",
-      "Example Sentence": "______ , weil Tim kein Geschenk möchte.",
-      "Answer": "Nichts"
+        "Word": "nichts",
+        "Translation": "nothing",
+        "Example Sentence": "______ , weil Tim kein Geschenk möchte.",
+        "Answer": "Nichts"
     },
     {
-      "Word": "die Menge, -n",
-      "Translation": "quantity",
-      "Example Sentence": "Was haben Sie in großer ______?",
-      "Answer": "Menge"
+        "Word": "die Menge, -n",
+        "Translation": "quantity",
+        "Example Sentence": "Was haben Sie in großer ______?",
+        "Answer": "Menge"
     },
     {
-      "Word": "der Kugelschreiber, -",
-      "Translation": "pen",
-      "Example Sentence": "Ich sammle ______.",
-      "Answer": "Kugelschreiber"
+        "Word": "der Kugelschreiber, -",
+        "Translation": "pen",
+        "Example Sentence": "Ich sammle ______.",
+        "Answer": "Kugelschreiber"
     },
     {
-      "Word": "stecken (hat gesteckt)",
-      "Translation": "to be stuck",
-      "Example Sentence": "Der Schlüssel ______ im Schloss.",
-      "Answer": "steckt"
+        "Word": "stecken (hat gesteckt)",
+        "Translation": "to be stuck",
+        "Example Sentence": "Der Schlüssel ______ im Schloss.",
+        "Answer": "steckt"
     },
     {
-      "Word": "das Schloss, -er",
-      "Translation": "lock",
-      "Example Sentence": "Der Schlüssel steckt ______.",
-      "Answer": "im Schloss"
+        "Word": "das Schloss, -er",
+        "Translation": "lock",
+        "Example Sentence": "Der Schlüssel steckt ______.",
+        "Answer": "im Schloss"
     },
     {
-      "Word": "stehen (hat gestanden)",
-      "Translation": "to stand",
-      "Example Sentence": "Tim ______ auf der Leiter.",
-      "Answer": "steht"
+        "Word": "stehen (hat gestanden)",
+        "Translation": "to stand",
+        "Example Sentence": "Tim ______ auf der Leiter.",
+        "Answer": "steht"
     },
     {
-      "Word": "das Bild, -er",
-      "Translation": "picture",
-      "Example Sentence": "______ steckt im Papierkorb.",
-      "Answer": "Das Bild"
+        "Word": "das Bild, -er",
+        "Translation": "picture",
+        "Example Sentence": "______ steckt im Papierkorb.",
+        "Answer": "Das Bild"
     },
     {
-      "Word": "die Wand, -e",
-      "Translation": "wall",
-      "Example Sentence": "Das Bild hängt an ______.",
-      "Answer": "der Wand"
+        "Word": "die Wand, -e",
+        "Translation": "wall",
+        "Example Sentence": "Das Bild hängt an ______.",
+        "Answer": "der Wand"
     },
     {
-      "Word": "die Katze, -n",
-      "Translation": "cat",
-      "Example Sentence": "Im Zimmer A liegt ______ auf dem Sessel.",
-      "Answer": "die Katze"
+        "Word": "die Katze, -n",
+        "Translation": "cat",
+        "Example Sentence": "Im Zimmer A liegt ______ auf dem Sessel.",
+        "Answer": "die Katze"
     },
     {
-      "Word": "legen (hat gelegt)",
-      "Translation": "to lay",
-      "Example Sentence": "Kann ich meine Sachen auf den Tisch ______?",
-      "Answer": "legen"
+        "Word": "legen (hat gelegt)",
+        "Translation": "to lay",
+        "Example Sentence": "Kann ich meine Sachen auf den Tisch ______?",
+        "Answer": "legen"
     },
     {
-      "Word": "die Ruhe (Sg.)",
-      "Translation": "peace and quiet",
-      "Example Sentence": "Gut arbeiten und lernen - das klappt am besten mit ______, Licht und Ordnung.",
-      "Answer": "Ruhe"
+        "Word": "die Ruhe (Sg.)",
+        "Translation": "peace and quiet",
+        "Example Sentence": "Gut arbeiten und lernen - das klappt am besten mit ______, Licht und Ordnung.",
+        "Answer": "Ruhe"
     },
     {
-      "Word": "das Schild, -er",
-      "Translation": "sign",
-      "Example Sentence": "Hängen Sie ______ an die Tür: 'Bitte nicht stören!'",
-      "Answer": "ein Schild"
+        "Word": "das Schild, -er",
+        "Translation": "sign",
+        "Example Sentence": "Hängen Sie ______ an die Tür: 'Bitte nicht stören!'",
+        "Answer": "ein Schild"
     },
     {
-      "Word": "stören (hat gestört)",
-      "Translation": "to disturb",
-      "Example Sentence": "Hängen Sie ein Schild an die Tür: 'Bitte nicht ______!'",
-      "Answer": "stören"
+        "Word": "stören (hat gestört)",
+        "Translation": "to disturb",
+        "Example Sentence": "Hängen Sie ein Schild an die Tür: 'Bitte nicht ______!'",
+        "Answer": "stören"
     },
     {
-      "Word": "stellen (hat gestellt)",
-      "Translation": "to place",
-      "Example Sentence": "Stellen Sie den Schreibtisch am besten ans Fenster und ______ Sie eine Lampe auf den Schreibtisch.",
-      "Answer": "stellen"
+        "Word": "stellen (hat gestellt)",
+        "Translation": "to place",
+        "Example Sentence": "Stellen Sie den Schreibtisch am besten ans Fenster und ______ Sie eine Lampe auf den Schreibtisch.",
+        "Answer": "stellen"
     },
     {
-      "Word": "der Stift, -e",
-      "Translation": "pen",
-      "Example Sentence": "Legen Sie Papier und ______ wieder in die Schubladen.",
-      "Answer": "Stifte"
+        "Word": "der Stift, -e",
+        "Translation": "pen",
+        "Example Sentence": "Legen Sie Papier und ______ wieder in die Schubladen.",
+        "Answer": "Stifte"
     }
 ]

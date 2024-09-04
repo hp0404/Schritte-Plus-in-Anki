@@ -1,146 +1,146 @@
 [
     {
-      "Word": "der Wecker, -",
-      "Translation": "alarm clock",
-      "Example Sentence": "Zuerst habe ich heute Morgen _ nicht gehört.",
-      "Answer": "den Wecker"
+        "Word": "der Wecker, -",
+        "Translation": "alarm clock",
+        "Example Sentence": "Zuerst habe ich heute Morgen _ nicht gehört.",
+        "Answer": "den Wecker"
     },
     {
-      "Word": "(sich) merken (hat gemerkt)",
-      "Translation": "to remember",
-      "Example Sentence": "Ich bin in die falsche S-Bahn engestiegen und habe es erst zwei Stationen später _",
-      "Answer": "gemerkt"
+        "Word": "(sich) merken (hat gemerkt)",
+        "Translation": "to remember",
+        "Example Sentence": "Ich bin in die falsche S-Bahn engestiegen und habe es erst zwei Stationen später _",
+        "Answer": "gemerkt"
     },
     {
-      "Word": "schließlich",
-      "Translation": "finally",
-      "Example Sentence": "Aber ich bin ______ sogar noch pünktlich im Hotel angekommen.",
-      "Answer": "schließlich"
+        "Word": "schließlich",
+        "Translation": "finally",
+        "Example Sentence": "Aber ich bin ______ sogar noch pünktlich im Hotel angekommen.",
+        "Answer": "schließlich"
     },
     {
-      "Word": "sogar",
-      "Translation": "even",
-      "Example Sentence": "Aber ich bin schließlich ______ noch pünktlich im Hotel angekommen.",
-      "Answer": "sogar"
+        "Word": "sogar",
+        "Translation": "even",
+        "Example Sentence": "Aber ich bin schließlich ______ noch pünktlich im Hotel angekommen.",
+        "Answer": "sogar"
     },
     {
-      "Word": "der Arbeitstag, -e",
-      "Translation": "workday",
-      "Example Sentence": "Oje! Ich habe den Wecker auch schon oft nicht gehört. Aber zum Glück noch nicht an meinem ersten ______.",
-      "Answer": "Arbeitstag"
+        "Word": "der Arbeitstag, -e",
+        "Translation": "workday",
+        "Example Sentence": "Oje! Ich habe den Wecker auch schon oft nicht gehört. Aber zum Glück noch nicht an meinem ersten ______.",
+        "Answer": "Arbeitstag"
     },
     {
-      "Word": "klingen (hat geklungen)",
-      "Translation": "to sound",
-      "Example Sentence": "Das ______ aber nicht gut!",
-      "Answer": "klingt"
+        "Word": "klingen (hat geklungen)",
+        "Translation": "to sound",
+        "Example Sentence": "Das ______ aber nicht gut!",
+        "Answer": "klingt"
     },
     {
-      "Word": "erleben (hat erlebt)",
-      "Translation": "to experience",
-      "Example Sentence": "So was hast du noch nicht ______!",
-      "Answer": "erlebt"
+        "Word": "erleben (hat erlebt)",
+        "Translation": "to experience",
+        "Example Sentence": "So was hast du noch nicht ______!",
+        "Answer": "erlebt"
     },
     {
-      "Word": "die Panne, -n",
-      "Translation": "breakdown (e.g. car breakdown)",
-      "Example Sentence": "_ im Alltag.",
-      "Answer": "Pannen"
+        "Word": "die Panne, -n",
+        "Translation": "breakdown (e.g. car breakdown)",
+        "Example Sentence": "_ im Alltag.",
+        "Answer": "Pannen"
     },
     {
-      "Word": "der Alltag (Sg.)",
-      "Translation": "everyday life",
-      "Example Sentence": "Erik hat viel Stress _.",
-      "Answer": "im Alltag"
+        "Word": "der Alltag (Sg.)",
+        "Translation": "everyday life",
+        "Example Sentence": "Erik hat viel Stress _.",
+        "Answer": "im Alltag"
     },
     {
-      "Word": "verpassen (hat verpasst)",
-      "Translation": "to miss",
-      "Example Sentence": "Ich habe die S-Bahn ______.",
-      "Answer": "verpasst"
+        "Word": "verpassen (hat verpasst)",
+        "Translation": "to miss",
+        "Example Sentence": "Ich habe die S-Bahn ______.",
+        "Answer": "verpasst"
     },
     {
-      "Word": "bemerken (hat bemerkt)",
-      "Translation": "to notice",
-      "Example Sentence": "Ich habe den Schlüssel zu Hause vergessen und es jetzt erst _.",
-      "Answer": "bemerkt"
+        "Word": "bemerken (hat bemerkt)",
+        "Translation": "to notice",
+        "Example Sentence": "Ich habe den Schlüssel zu Hause vergessen und es jetzt erst _.",
+        "Answer": "bemerkt"
     },
     {
-      "Word": "erfahren, du erfährst, er erfährt (hat erfahren)",
-      "Translation": "to find out",
-      "Example Sentence": "Ich habe gerade ______: Heute muss ich lange arbeiten.",
-      "Answer": "erfahren"
+        "Word": "erfahren, du erfährst, er erfährt (hat erfahren)",
+        "Translation": "to find out",
+        "Example Sentence": "Ich habe gerade ______: Heute muss ich lange arbeiten.",
+        "Answer": "erfahren"
     },
     {
-      "Word": "(sich) vorstellen (hat vorgestellt)",
-      "Translation": "to imagine",
-      "Example Sentence": "Stell Dir vor, Jan hat seine Geldbörse ______.",
-      "Answer": "verloren"
+        "Word": "(sich) vorstellen (hat vorgestellt)",
+        "Translation": "to imagine",
+        "Example Sentence": "Stell Dir vor, Jan hat seine Geldbörse ______.",
+        "Answer": "verloren"
     },
     {
-      "Word": "die Geldbörse, -n",
-      "Translation": "wallet",
-      "Example Sentence": "Jan hat seine ______ verloren.",
-      "Answer": "Geldbörse"
+        "Word": "die Geldbörse, -n",
+        "Translation": "wallet",
+        "Example Sentence": "Jan hat seine ______ verloren.",
+        "Answer": "Geldbörse"
     },
     {
-      "Word": "verlieren (hat verloren)",
-      "Translation": "to lose",
-      "Example Sentence": "Ich habe zehn Euro _.",
-      "Answer": "verloren"
+        "Word": "verlieren (hat verloren)",
+        "Translation": "to lose",
+        "Example Sentence": "Ich habe zehn Euro _.",
+        "Answer": "verloren"
     },
     {
-      "Word": "das Pech (Sg.)",
-      "Translation": "bad luck",
-      "Example Sentence": "So ein ______!",
-      "Answer": "Pech"
+        "Word": "das Pech (Sg.)",
+        "Translation": "bad luck",
+        "Example Sentence": "So ein ______!",
+        "Answer": "Pech"
     },
     {
-      "Word": "die Kreditkarte, -n",
-      "Translation": "credit card",
-      "Example Sentence": "Mit Papieren und ______?",
-      "Answer": "Kreditkarte"
+        "Word": "die Kreditkarte, -n",
+        "Translation": "credit card",
+        "Example Sentence": "Mit Papieren und ______?",
+        "Answer": "Kreditkarte"
     },
     {
-      "Word": "stoßen, du stößt, er stößt (hat/ist gestoßen)",
-      "Translation": "to bump into",
-      "Example Sentence": "Ich bin vom Büro mit meinem Chef ______.",
-      "Answer": "zusammengestoßen"
+        "Word": "stoßen, du stößt, er stößt (hat/ist gestoßen)",
+        "Translation": "to bump into",
+        "Example Sentence": "Ich bin vom Büro mit meinem Chef ______.",
+        "Answer": "zusammengestoßen"
     },
     {
-      "Word": "peinlich",
-      "Translation": "embarrassing",
-      "Example Sentence": "Wie ______!",
-      "Answer": "peinlich"
+        "Word": "peinlich",
+        "Translation": "embarrassing",
+        "Example Sentence": "Wie ______!",
+        "Answer": "peinlich"
     },
     {
-      "Word": "der Onkel, -",
-      "Translation": "uncle",
-      "Example Sentence": "Stefan ist Annas ______.",
-      "Answer": "Onkel"
+        "Word": "der Onkel, -",
+        "Translation": "uncle",
+        "Example Sentence": "Stefan ist Annas ______.",
+        "Answer": "Onkel"
     },
     {
-      "Word": "die Tante, -n",
-      "Translation": "aunt",
-      "Example Sentence": "Daniela ist Annas ______.",
-      "Answer": "Tante"
+        "Word": "die Tante, -n",
+        "Translation": "aunt",
+        "Example Sentence": "Daniela ist Annas ______.",
+        "Answer": "Tante"
     },
     {
-      "Word": "der Cousin, -s / die Cousine, -n",
-      "Translation": "cousin (male, female)",
-      "Example Sentence": "Maria ist Annas ______.",
-      "Answer": "Cousine"
+        "Word": "der Cousin, -s / die Cousine, -n",
+        "Translation": "cousin (male, female)",
+        "Example Sentence": "Maria ist Annas ______.",
+        "Answer": "Cousine"
     },
     {
-      "Word": "der Neffe, -n",
-      "Translation": "nephew",
-      "Example Sentence": "Luca ist Annas ______.",
-      "Answer": "Neffe"
+        "Word": "der Neffe, -n",
+        "Translation": "nephew",
+        "Example Sentence": "Luca ist Annas ______.",
+        "Answer": "Neffe"
     },
     {
-      "Word": "die Nichte, -n",
-      "Translation": "niece",
-      "Example Sentence": "Esther ist Annas ______.",
-      "Answer": "Nichte"
+        "Word": "die Nichte, -n",
+        "Translation": "niece",
+        "Example Sentence": "Esther ist Annas ______.",
+        "Answer": "Nichte"
     }
 ]

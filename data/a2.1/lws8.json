@@ -1,56 +1,56 @@
 [
     {
-      "Word": "lassen, du lässt, er lässt (hat gelassen)",
-      "Translation": "to let",
-      "Example Sentence": "Könnten Sie die Firma bitte in meine Wohnung ______?",
-      "Answer": "lassen"
+        "Word": "lassen, du lässt, er lässt (hat gelassen)",
+        "Translation": "to let",
+        "Example Sentence": "Könnten Sie die Firma bitte in meine Wohnung ______?",
+        "Answer": "lassen"
     },
     {
-      "Word": "werfen, du wirfst, er wirft (hat geworfen)",
-      "Translation": "to throw",
-      "Example Sentence": "Ich ______ meinen Schlüssel in Ihren Briefkasten.",
-      "Answer": "werfe"
+        "Word": "werfen, du wirfst, er wirft (hat geworfen)",
+        "Translation": "to throw",
+        "Example Sentence": "Ich ______ meinen Schlüssel in Ihren Briefkasten.",
+        "Answer": "werfe"
     },
     {
-      "Word": "aufpassen (hat aufgepasst)",
-      "Translation": "to take care",
-      "Example Sentence": "Sie ist krank und ich soll auf die Kinder ______.",
-      "Answer": "aufpassen"
+        "Word": "aufpassen (hat aufgepasst)",
+        "Translation": "to take care",
+        "Example Sentence": "Sie ist krank und ich soll auf die Kinder ______.",
+        "Answer": "aufpassen"
     },
     {
-      "Word": "gießen (hat gegossen)",
-      "Translation": "to water",
-      "Example Sentence": "Kannst du bitte meinen Briefkasten leeren und die Pflanzen ______?",
-      "Answer": "gießen"
+        "Word": "gießen (hat gegossen)",
+        "Translation": "to water",
+        "Example Sentence": "Kannst du bitte meinen Briefkasten leeren und die Pflanzen ______?",
+        "Answer": "gießen"
     },
     {
-      "Word": "wirklich",
-      "Translation": "really",
-      "Example Sentence": "Das wäre ______ nett.",
-      "Answer": "wirklich"
+        "Word": "wirklich",
+        "Translation": "really",
+        "Example Sentence": "Das wäre ______ nett.",
+        "Answer": "wirklich"
     },
     {
-      "Word": "klingeln (hat geklingelt)",
-      "Translation": "to ring",
-      "Example Sentence": "Ich ______ heute Abend bei Ihnen, ja?",
-      "Answer": "klingele"
+        "Word": "klingeln (hat geklingelt)",
+        "Translation": "to ring",
+        "Example Sentence": "Ich ______ heute Abend bei Ihnen, ja?",
+        "Answer": "klingele"
     },
     {
-      "Word": "besprechen, du besprichst, er bespricht (hat besprochen)",
-      "Translation": "to discuss",
-      "Example Sentence": "Dann können wir alles ______ und Sie bekommen gleich meinen Schlüssel!",
-      "Answer": "besprechen"
+        "Word": "besprechen, du besprichst, er bespricht (hat besprochen)",
+        "Translation": "to discuss",
+        "Example Sentence": "Dann können wir alles ______ und Sie bekommen gleich meinen Schlüssel!",
+        "Answer": "besprechen"
     },
     {
-      "Word": "füttern (hat gefüttert)",
-      "Translation": "to feed",
-      "Example Sentence": "Können Sie bitte meine Katze ______?",
-      "Answer": "füttern"
+        "Word": "füttern (hat gefüttert)",
+        "Translation": "to feed",
+        "Example Sentence": "Können Sie bitte meine Katze ______?",
+        "Answer": "füttern"
     },
     {
-      "Word": "der Handwerker, -",
-      "Translation": "craftsman",
-      "Example Sentence": "Morgen kommt ______ zu Ihnen.",
-      "Answer": "ein Handwerker"
+        "Word": "der Handwerker, -",
+        "Translation": "craftsman",
+        "Example Sentence": "Morgen kommt ______ zu Ihnen.",
+        "Answer": "ein Handwerker"
     }
 ]

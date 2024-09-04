@@ -1,128 +1,128 @@
 [
     {
-      "Word": "bauen (hat gebaut)",
-      "Translation": "build",
-      "Example Sentence": "Arbeiten Sie in Gruppen und ______ Sie ein Bild.",
-      "Answer": "bauen"
+        "Word": "bauen (hat gebaut)",
+        "Translation": "build",
+        "Example Sentence": "Arbeiten Sie in Gruppen und ______ Sie ein Bild.",
+        "Answer": "bauen"
     },
     {
-      "Word": "dahin",
-      "Translation": "there",
-      "Example Sentence": "Stellen Sie die Leiter ______.",
-      "Answer": "dahin"
+        "Word": "dahin",
+        "Translation": "there",
+        "Example Sentence": "Stellen Sie die Leiter ______.",
+        "Answer": "dahin"
     },
     {
-      "Word": "die Pflanze, -n",
-      "Translation": "plant",
-      "Example Sentence": "Wohin soll ich ______ stellen? -- Dorthin, bitte.",
-      "Answer": "die Pflanze"
+        "Word": "die Pflanze, -n",
+        "Translation": "plant",
+        "Example Sentence": "Wohin soll ich ______ stellen? -- Dorthin, bitte.",
+        "Answer": "die Pflanze"
     },
     {
-      "Word": "dorthin",
-      "Translation": "over there",
-      "Example Sentence": "Wohin soll ich die Pflanze stellen? -- ______, bitte.",
-      "Answer": "dorthin"
+        "Word": "dorthin",
+        "Translation": "over there",
+        "Example Sentence": "Wohin soll ich die Pflanze stellen? -- ______, bitte.",
+        "Answer": "dorthin"
     },
     {
-      "Word": "die Vorsicht (Sg.)",
-      "Translation": "caution",
-      "Example Sentence": "______ Tim! Fallen Sie nicht runter!",
-      "Answer": "Vorsicht"
+        "Word": "die Vorsicht (Sg.)",
+        "Translation": "caution",
+        "Example Sentence": "______ Tim! Fallen Sie nicht runter!",
+        "Answer": "Vorsicht"
     },
     {
-      "Word": "herunter-, runter-",
-      "Translation": "down",
-      "Example Sentence": "Vorsicht, Tim! Fallen Sie nicht ______!",
-      "Answer": "runter"
+        "Word": "herunter-, runter-",
+        "Translation": "down",
+        "Example Sentence": "Vorsicht, Tim! Fallen Sie nicht ______!",
+        "Answer": "runter"
     },
     {
-      "Word": "fallen, du fällst, er fällt (ist gefallen)",
-      "Translation": "to fall",
-      "Example Sentence": "Vorsicht, Tim! ______ Sie nicht runter!",
-      "Answer": "Fallen"
+        "Word": "fallen, du fällst, er fällt (ist gefallen)",
+        "Translation": "to fall",
+        "Example Sentence": "Vorsicht, Tim! ______ Sie nicht runter!",
+        "Answer": "Fallen"
     },
     {
-      "Word": "rein",
-      "Translation": "in",
-      "Example Sentence": "Die Glühbirne kommt da ______ -- in den Müll.",
-      "Answer": "rein"
+        "Word": "rein",
+        "Translation": "in",
+        "Example Sentence": "Die Glühbirne kommt da ______ -- in den Müll.",
+        "Answer": "rein"
     },
     {
-      "Word": "der Müll (Sg.)",
-      "Translation": "trash, garbage",
-      "Example Sentence": "Bringst du ______ raus?",
-      "Answer": "den Müll"
+        "Word": "der Müll (Sg.)",
+        "Translation": "trash, garbage",
+        "Example Sentence": "Bringst du ______ raus?",
+        "Answer": "den Müll"
     },
     {
-      "Word": "raus",
-      "Translation": "out",
-      "Example Sentence": "Bringst du den Müll ______?",
-      "Answer": "raus"
+        "Word": "raus",
+        "Translation": "out",
+        "Example Sentence": "Bringst du den Müll ______?",
+        "Answer": "raus"
     },
     {
-      "Word": "reinkommen (ist reingekommen)",
-      "Translation": "come in",
-      "Example Sentence": "______ Sie doch ______, Fraun Meier.",
-      "Answer": "Kommen, rein"
+        "Word": "reinkommen (ist reingekommen)",
+        "Translation": "come in",
+        "Example Sentence": "______ Sie doch ______, Fraun Meier.",
+        "Answer": "Kommen, rein"
     },
     {
-      "Word": "die Mitteilung, -en",
-      "Translation": "notification, message",
-      "Example Sentence": "Welche ______ hängen in einem Mietshaus aus?",
-      "Answer": "Mitteilungen"
+        "Word": "die Mitteilung, -en",
+        "Translation": "notification, message",
+        "Example Sentence": "Welche ______ hängen in einem Mietshaus aus?",
+        "Answer": "Mitteilungen"
     },
     {
-      "Word": "der Bewohner, - / die Bewohnerin, -nen",
-      "Translation": "resident",
-      "Example Sentence": "Sehr geehrter ______, ...",
-      "Answer": "Hausbewohner"
+        "Word": "der Bewohner, - / die Bewohnerin, -nen",
+        "Translation": "resident",
+        "Example Sentence": "Sehr geehrter ______, ...",
+        "Answer": "Hausbewohner"
     },
     {
-      "Word": "trennen (hat getrennt)",
-      "Translation": "separate",
-      "Example Sentence": "Bitte ______ Sie den Müll sorgfältig.",
-      "Answer": "trennen"
+        "Word": "trennen (hat getrennt)",
+        "Translation": "separate",
+        "Example Sentence": "Bitte ______ Sie den Müll sorgfältig.",
+        "Answer": "trennen"
     },
     {
-      "Word": "Bio-",
-      "Translation": "organic",
-      "Example Sentence": "Leider liegt ______ immer wieder anderer Abfall.",
-      "Answer": "im Biomüll"
+        "Word": "Bio-",
+        "Translation": "organic",
+        "Example Sentence": "Leider liegt ______ immer wieder anderer Abfall.",
+        "Answer": "im Biomüll"
     },
     {
-      "Word": "der Abfall, -e",
-      "Translation": "waste, trash",
-      "Example Sentence": "Leider liegt im Biomüll immer wieder andere_ ______.",
-      "Answer": "anderer Abfall"
+        "Word": "der Abfall, -e",
+        "Translation": "waste, trash",
+        "Example Sentence": "Leider liegt im Biomüll immer wieder andere_ ______.",
+        "Answer": "anderer Abfall"
     },
     {
-      "Word": "das Plastik (Sg.)",
-      "Translation": "plastic",
-      "Example Sentence": "Wohin kommt der ______?",
-      "Answer": "Plastikmüll"
+        "Word": "das Plastik (Sg.)",
+        "Translation": "plastic",
+        "Example Sentence": "Wohin kommt der ______?",
+        "Answer": "Plastikmüll"
     },
     {
-      "Word": "beachten (hat beachtet)",
-      "Translation": "observe, take note",
-      "Example Sentence": "Bitte ______ Sie: Die Müllabfuhr leert falsch befüllte Mülltonnen nicht.",
-      "Answer": "beachten"
+        "Word": "beachten (hat beachtet)",
+        "Translation": "observe, take note",
+        "Example Sentence": "Bitte ______ Sie: Die Müllabfuhr leert falsch befüllte Mülltonnen nicht.",
+        "Answer": "beachten"
     },
     {
-      "Word": "die Müllabfuhr, -en",
-      "Translation": "garbage collection",
-      "Example Sentence": "______ leert falsch befüllte Mülltonnen nicht.",
-      "Answer": "Die Müllabfuhr"
+        "Word": "die Müllabfuhr, -en",
+        "Translation": "garbage collection",
+        "Example Sentence": "______ leert falsch befüllte Mülltonnen nicht.",
+        "Answer": "Die Müllabfuhr"
     },
     {
-      "Word": "die Mülltonne, -n",
-      "Translation": "garbage can",
-      "Example Sentence": "Die Müllabfuhr leert falsch befüllte ______ nicht.",
-      "Answer": "Mülltonnen"
+        "Word": "die Mülltonne, -n",
+        "Translation": "garbage can",
+        "Example Sentence": "Die Müllabfuhr leert falsch befüllte ______ nicht.",
+        "Answer": "Mülltonnen"
     },
     {
-      "Word": "ab-stellen (hat abgestellt)",
-      "Translation": "park, place down",
-      "Example Sentence": "Bitte benutzen Sie die Parklätze vor dem Haus oder ______ Sie Ihr Auto in der Garage ______.",
-      "Answer": "stellen, ab"
+        "Word": "ab-stellen (hat abgestellt)",
+        "Translation": "park, place down",
+        "Example Sentence": "Bitte benutzen Sie die Parklätze vor dem Haus oder ______ Sie Ihr Auto in der Garage ______.",
+        "Answer": "stellen, ab"
     }
 ]

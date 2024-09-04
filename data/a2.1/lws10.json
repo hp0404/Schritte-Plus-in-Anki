@@ -1,146 +1,146 @@
 [
-   {
-      "Word": "deutsch",
-      "Translation": "German",
-      "Example Sentence": "______ Fleischgerichte esse ich auch manchmal, aber kein Schweinefleisch.",
-      "Answer": "Deutsche"
+    {
+        "Word": "deutsch",
+        "Translation": "German",
+        "Example Sentence": "______ Fleischgerichte esse ich auch manchmal, aber kein Schweinefleisch.",
+        "Answer": "Deutsche"
     },
     {
-      "Word": "das Schwein, -e",
-      "Translation": "pig",
-      "Example Sentence": "Deutsche Fleischgerichte esse ich auch manchmal, aber kein ______.",
-      "Answer": "Schwein"
+        "Word": "das Schwein, -e",
+        "Translation": "pig",
+        "Example Sentence": "Deutsche Fleischgerichte esse ich auch manchmal, aber kein ______.",
+        "Answer": "Schwein"
     },
     {
-      "Word": "der Alkohol (Sg.)",
-      "Translation": "alcohol",
-      "Example Sentence": "Ich trinke nie ______.",
-      "Answer": "Alkohol"
+        "Word": "der Alkohol (Sg.)",
+        "Translation": "alcohol",
+        "Example Sentence": "Ich trinke nie ______.",
+        "Answer": "Alkohol"
     },
     {
-    "Word": "zweimal",
-    "Translation": "twice",
-    "Example Sentence": "Wie oft kochst du selbst? Ich koche ______ am Tag.",
-    "Answer": "zweimal"
+        "Word": "zweimal",
+        "Translation": "twice",
+        "Example Sentence": "Wie oft kochst du selbst? Ich koche ______ am Tag.",
+        "Answer": "zweimal"
     },
     {
-      "Word": "der Löffel, -",
-      "Translation": "spoon",
-      "Example Sentence": "Du, Dimi, wo sind denn ______?",
-      "Answer": "die Löffel"
+        "Word": "der Löffel, -",
+        "Translation": "spoon",
+        "Example Sentence": "Du, Dimi, wo sind denn ______?",
+        "Answer": "die Löffel"
     },
     {
-      "Word": "das Messer, -",
-      "Translation": "knife",
-      "Example Sentence": "Oh, mein ______ ist runtergefallen.",
-      "Answer": "das Messer"
+        "Word": "das Messer, -",
+        "Translation": "knife",
+        "Example Sentence": "Oh, mein ______ ist runtergefallen.",
+        "Answer": "das Messer"
     },
     {
-      "Word": "der Teller, -",
-      "Translation": "plate",
-      "Example Sentence": "Gibst du mir deinen ______, Tim?",
-      "Answer": "der Teller"
+        "Word": "der Teller, -",
+        "Translation": "plate",
+        "Example Sentence": "Gibst du mir deinen ______, Tim?",
+        "Answer": "der Teller"
     },
     {
-      "Word": "die Gabel, -n",
-      "Translation": "fork",
-      "Example Sentence": "Ich brauche ______.",
-      "Answer": "eine Gabel"
+        "Word": "die Gabel, -n",
+        "Translation": "fork",
+        "Example Sentence": "Ich brauche ______.",
+        "Answer": "eine Gabel"
     },
     {
-      "Word": "das Quartett, -e",
-      "Translation": "quartet",
-      "Example Sentence": "Küchen-______",
-      "Answer": "Quartett"
+        "Word": "das Quartett, -e",
+        "Translation": "quartet",
+        "Example Sentence": "Küchen-______",
+        "Answer": "Quartett"
     },
     {
-      "Word": "der Topf, -e",
-      "Translation": "pot",
-      "Example Sentence": "Ich brauche ______. Hast du einen?",
-      "Answer": "einen Topf"
+        "Word": "der Topf, -e",
+        "Translation": "pot",
+        "Example Sentence": "Ich brauche ______. Hast du einen?",
+        "Answer": "einen Topf"
     },
     {
-      "Word": "die Kanne, -n",
-      "Translation": "jug, kettle",
-      "Example Sentence": "Ich brauche ______. Hast du eine?",
-      "Answer": "eine Kanne"
+        "Word": "die Kanne, -n",
+        "Translation": "jug, kettle",
+        "Example Sentence": "Ich brauche ______. Hast du eine?",
+        "Answer": "eine Kanne"
     },
     {
-      "Word": "die Schüssel, -n",
-      "Translation": "bowl",
-      "Example Sentence": "Ich brauche eine ______. Hast du eine?",
-      "Answer": "eine Schüssel"
+        "Word": "die Schüssel, -n",
+        "Translation": "bowl",
+        "Example Sentence": "Ich brauche eine ______. Hast du eine?",
+        "Answer": "eine Schüssel"
     },
     {
-      "Word": "die Pfanne, -n",
-      "Translation": "pan",
-      "Example Sentence": "Ich brauche ______. Hast du eine?",
-      "Answer": "eine Pfanne"
+        "Word": "die Pfanne, -n",
+        "Translation": "pan",
+        "Example Sentence": "Ich brauche ______. Hast du eine?",
+        "Answer": "eine Pfanne"
     },
     {
-      "Word": "der Appetit (Sg.)",
-      "Translation": "appetite",
-      "Example Sentence": "Also dann: Guten ______.",
-      "Answer": "Appetit"
+        "Word": "der Appetit (Sg.)",
+        "Translation": "appetite",
+        "Example Sentence": "Also dann: Guten ______.",
+        "Answer": "Appetit"
     },
     {
-      "Word": "riechen (hat gerochen)",
-      "Translation": "to smell",
-      "Example Sentence": "Hm, das ______ so lecker!",
-      "Answer": "riecht"
+        "Word": "riechen (hat gerochen)",
+        "Translation": "to smell",
+        "Example Sentence": "Hm, das ______ so lecker!",
+        "Answer": "riecht"
     },
     {
-      "Word": "(sich) aus-ziehen (hat ausgezogen)",
-      "Translation": "take off (clothes)",
-      "Example Sentence": "Soll ich die Schuhe ______?",
-      "Answer": "ausziehen"
+        "Word": "(sich) aus-ziehen (hat ausgezogen)",
+        "Translation": "take off (clothes)",
+        "Example Sentence": "Soll ich die Schuhe ______?",
+        "Answer": "ausziehen"
     },
     {
-      "Word": "voll",
-      "Translation": "full",
-      "Example Sentence": "Darf man schmatzen und mit ______ Mund sprechen?",
-      "Answer": "vollem"
+        "Word": "voll",
+        "Translation": "full",
+        "Example Sentence": "Darf man schmatzen und mit ______ Mund sprechen?",
+        "Answer": "vollem"
     },
     {
-      "Word": "okay",
-      "Translation": "okay",
-      "Example Sentence": "Ein bisschen Verspätung ist ______.",
-      "Answer": "okay"
+        "Word": "okay",
+        "Translation": "okay",
+        "Example Sentence": "Ein bisschen Verspätung ist ______.",
+        "Answer": "okay"
     },
     {
-      "Word": "vorher",
-      "Translation": "beforehand",
-      "Example Sentence": "Man muss den Gastgeber ______ fragen.",
-      "Answer": "vorher"
+        "Word": "vorher",
+        "Translation": "beforehand",
+        "Example Sentence": "Man muss den Gastgeber ______ fragen.",
+        "Answer": "vorher"
     },
     {
-      "Word": "höflich",
-      "Translation": "polite",
-      "Example Sentence": "30 Minuten Verspätung -- das ist nicht sehr ______.",
-      "Answer": "höflich"
+        "Word": "höflich",
+        "Translation": "polite",
+        "Example Sentence": "30 Minuten Verspätung -- das ist nicht sehr ______.",
+        "Answer": "höflich"
     },
     {
-      "Word": "die Diät, -en",
-      "Translation": "diet",
-      "Example Sentence": "Sie machen ______ oder dürfen etwas nicht essen.",
-      "Answer": "eine Diät"
+        "Word": "die Diät, -en",
+        "Translation": "diet",
+        "Example Sentence": "Sie machen ______ oder dürfen etwas nicht essen.",
+        "Answer": "eine Diät"
     },
     {
-      "Word": "satt",
-      "Translation": "full (not hungry)",
-      "Example Sentence": "Sie sind ______, aber Sie dürfen nicht 'Nein' sagen.",
-      "Answer": "satt"
+        "Word": "satt",
+        "Translation": "full (not hungry)",
+        "Example Sentence": "Sie sind ______, aber Sie dürfen nicht 'Nein' sagen.",
+        "Answer": "satt"
     },
     {
-      "Word": "anders",
-      "Translation": "different",
-      "Example Sentence": "Bei uns ist das ______.",
-      "Answer": "anders"
+        "Word": "anders",
+        "Translation": "different",
+        "Example Sentence": "Bei uns ist das ______.",
+        "Answer": "anders"
     },
     {
-      "Word": "genauso",
-      "Translation": "exactly the same",
-      "Example Sentence": "Bei uns ist das ______.",
-      "Answer": "genauso"
+        "Word": "genauso",
+        "Translation": "exactly the same",
+        "Example Sentence": "Bei uns ist das ______.",
+        "Answer": "genauso"
     }
 ]
