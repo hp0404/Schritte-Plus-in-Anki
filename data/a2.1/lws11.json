@@ -1,0 +1,128 @@
+[
+    {
+      "Word": "überraschen (hat überrascht)",
+      "Translation": "to surprise",
+      "Example Sentence": "Das ______ mich.",
+      "Answer": "überrascht"
+    },
+    {
+      "Word": "seltsam",
+      "Translation": "strange",
+      "Example Sentence": "Das finde ich ______.",
+      "Answer": "seltsam"
+    },
+    {
+      "Word": "scharf",
+      "Translation": "spicy",
+      "Example Sentence": "Ich koche sehr gern ______.",
+      "Answer": "scharf"
+    },
+    {
+      "Word": "süß",
+      "Translation": "sweet",
+      "Example Sentence": "Der Saft ist ______.",
+      "Answer": "süß"
+    },
+    {
+      "Word": "salzig",
+      "Translation": "salty",
+      "Example Sentence": "Ich koche nicht gern ______.",
+      "Answer": "salzig"
+    },
+    {
+      "Word": "fett",
+      "Translation": "fatty",
+      "Example Sentence": "Ich koche nicht gern ______.",
+      "Answer": "fett"
+    },
+    {
+      "Word": "leiten (hat geleitet)",
+      "Translation": "to lead/manage",
+      "Example Sentence": "Joachim Vogt ______ die Kantine einer großen Bank in München.",
+      "Answer": "leitet"
+    },
+    {
+      "Word": "frisch",
+      "Translation": "fresh",
+      "Example Sentence": "Der Koch findet gesundes und ______ Essen sehr wichtig.",
+      "Answer": "frisches"
+    },
+    {
+      "Word": "rund",
+      "Translation": "around/about",
+      "Example Sentence": "In unserer Firma haben wir ______ 500 Mitarbeiter.",
+      "Answer": "rund"
+    },
+    {
+      "Word": "unterschiedlich",
+      "Translation": "different",
+      "Example Sentence": "Zum Frühstück gibt es bei uns ______ Arten von Müsli.",
+      "Answer": "unterschiedliche"
+    },
+    {
+      "Word": "die Art, -en",
+      "Translation": "kind/type",
+      "Example Sentence": "In meinem Heimatland essen wir viele unterschiedliche ______ von Gemüse.",
+      "Answer": "Arten"
+    },
+    {
+      "Word": "das Müsli, -s",
+      "Translation": "muesli",
+      "Example Sentence": "Zum Frühstück gibt es bei uns unterschiedliche Arten von ______.",
+      "Answer": "Müsli"
+    },
+    {
+      "Word": "die Frucht, -e",
+      "Translation": "fruit",
+      "Example Sentence": "Zum Frühstück gibt es Joghurt mit ______.",
+      "Answer": "Früchten"
+    },
+    {
+      "Word": "die Vorspeise, -n",
+      "Translation": "starter/appetizer",
+      "Example Sentence": "Zum Mittag haben wir drei Büfetts für ______, Nachspeisen und Salat.",
+      "Answer": "Vorspeisen"
+    },
+    {
+      "Word": "Haupt-",
+      "Translation": "main",
+      "Example Sentence": "Dazu gibt es drei ______: eins mit Fleisch, eins mit Fisch und ein vegetarisches.",
+      "Answer": "Hauptgerichte"
+    },
+    {
+      "Word": "das Prozent, -e",
+      "Translation": "percent",
+      "Example Sentence": "Oft nehmen fast 50 ______ das Gemüsegericht.",
+      "Answer": "Prozent"
+    },
+    {
+      "Word": "der Markt, -e",
+      "Translation": "market",
+      "Example Sentence": "Wo kaufen Sie Ihre Lebensmittel? - Auf ______.",
+      "Answer": "dem Markt"
+    },
+    {
+      "Word": "regional",
+      "Translation": "regional",
+      "Example Sentence": "Außerdem kaufe ich viele ______ Produkte.",
+      "Answer": "regionale"
+    },
+    {
+      "Word": "das Produkt, -e",
+      "Translation": "product",
+      "Example Sentence": "Außerdem kaufe ich viele regionale ______.",
+      "Answer": "Produkte"
+    },
+    {
+      "Word": "die Umgebung, -en",
+      "Translation": "surroundings",
+      "Example Sentence": "Außerdem kaufe ich viele regionale Produkte aus ______.",
+      "Answer": "der Umgebung"
+    },
+    {
+      "Word": "das Steak, -s",
+      "Translation": "steak",
+      "Example Sentence": "Ganz selten gibt es aber auch mal ______.",
+      "Answer": "Steak"
+    }
+]

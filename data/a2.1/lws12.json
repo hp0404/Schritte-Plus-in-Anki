@@ -1,0 +1,80 @@
+[
+    {
+      "Word": "die Fabrik, -en",
+      "Translation": "factory",
+      "Example Sentence": "Andere Kantinen bekommen das Essen aus ______.",
+      "Answer": "Fabriken"
+    },
+    {
+      "Word": "gegen",
+      "Translation": "around (time)",
+      "Example Sentence": "______ 9 Uhr bin ich in der Kantine.",
+      "Answer": "Gegen"
+    },
+    {
+      "Word": "planen (hat geplant)",
+      "Translation": "to plan",
+      "Example Sentence": "Am Nachmittag mache ich die Büroarbeit und ______ die Gerichte für die nächsten Tage.",
+      "Answer": "plane"
+    },
+    {
+      "Word": "täglich",
+      "Translation": "daily",
+      "Example Sentence": "Herr Vogt kocht ______ für circa 500 Personen.",
+      "Answer": "täglich"
+    },
+    {
+      "Word": "das Schnitzel, -",
+      "Translation": "schnitzel",
+      "Example Sentence": "Ich nehme ______ mit Pommes und Salat.",
+      "Answer": "das Schnitzel"
+    },
+    {
+      "Word": "die Suppe, -n",
+      "Translation": "soup",
+      "Example Sentence": "Entschuldigung, aber ______ ist leider viel zu salzig.",
+      "Answer": "die Suppe"
+    },
+    {
+      "Word": "das Stück, -e",
+      "Translation": "piece",
+      "Example Sentence": "Ein Eiskaffee, ______ Kuchen und eine Tasse Tee mit Zitrone.",
+      "Answer": "ein Stück"
+    },
+    {
+      "Word": "die Zitrone, -n",
+      "Translation": "lemon",
+      "Example Sentence": "Ein Eiskaffee, ein Stück Kuchen und eine Tasse Tee mit ______.",
+      "Answer": "Zitrone"
+    },
+    {
+      "Word": "sauber",
+      "Translation": "clean",
+      "Example Sentence": "Das Messer ist nicht ______.",
+      "Answer": "sauber"
+    },
+    {
+      "Word": "das Rind, -er",
+      "Translation": "beef",
+      "Example Sentence": "Ich nehme einen ______.",
+      "Answer": "einen Rinderbraten"
+    },
+    {
+      "Word": "der Braten, -",
+      "Translation": "roast",
+      "Example Sentence": "Ich nehme einen ______.",
+      "Answer": "einen Rinderbraten"
+    },
+    {
+      "Word": "besetzt",
+      "Translation": "occupied",
+      "Example Sentence": "Der Platz ist ______.",
+      "Answer": "besetzt"
+    },
+    {
+      "Word": "das Trinkgeld, -er",
+      "Translation": "tip",
+      "Example Sentence": "Geben Sie ______.",
+      "Answer": "Trinkgeld"
+    }
+]

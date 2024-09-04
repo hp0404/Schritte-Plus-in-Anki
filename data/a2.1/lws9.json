@@ -1,0 +1,122 @@
+[
+    {
+      "Word": "die Nachspeise, -n",
+      "Translation": "dessert",
+      "Example Sentence": "Als ______ gibt es Joghurt mit Honig und Nüssen.",
+      "Answer": "Nachspeise"
+    },
+    {
+      "Word": "der Honig (Sg.)",
+      "Translation": "honey",
+      "Example Sentence": "Als Nachspeise gibt es Joghurt mit ______ und Nüssen.",
+      "Answer": "Honig"
+    },
+    {
+      "Word": "meistens",
+      "Translation": "mostly",
+      "Example Sentence": "Ich esse ______ Fleisch.",
+      "Answer": "meistens"
+    },
+    {
+      "Word": "selten",
+      "Translation": "rarely",
+      "Example Sentence": "Ich esse ______ Fleisch.",
+      "Answer": "selten"
+    },
+    {
+      "Word": "stimmen (hat gestimmt)",
+      "Translation": "to be correct",
+      "Example Sentence": "Aber das ______ doch nicht, oder?",
+      "Answer": "stimmt"
+    },
+    {
+      "Word": "unterwegs",
+      "Translation": "on the way",
+      "Example Sentence": "Ich bin viel ______ und habe oft keine Zeit für eine richtige Mahlzeit.",
+      "Answer": "unterwegs"
+    },
+    {
+      "Word": "die Mahlzeit, -en",
+      "Translation": "meal",
+      "Example Sentence": "Ich bin viel unterwegs und habe oft keine Zeit für eine richtige ______.",
+      "Answer": "Mahlzeit"
+    },
+    {
+      "Word": "mittags",
+      "Translation": "at noon",
+      "Example Sentence": "Dann hole ich mir ______ oft nur schnell eine Wurst.",
+      "Answer": "mittags"
+    },
+    {
+      "Word": "morgens",
+      "Translation": "in the morning",
+      "Example Sentence": "______ , mittags, abends -- Kaffee kann ich immer trinken.",
+      "Answer": "Morgens"
+    },
+    {
+      "Word": "die Tasse, -n",
+      "Translation": "cup",
+      "Example Sentence": "Acht ______ pro Tag sind es bestimmt.",
+      "Answer": "Tassen"
+    },
+    {
+      "Word": "bestimmt",
+      "Translation": "certainly",
+      "Example Sentence": "Acht Tassen pro Tag sind es ______.",
+      "Answer": "bestimmt"
+    },
+    {
+      "Word": "das Essen",
+      "Translation": "food",
+      "Example Sentence": "Ich finde gesundes ______ wichtig.",
+      "Answer": "Essen"
+    },
+    {
+      "Word": "das Mittagessen",
+      "Translation": "lunch",
+      "Example Sentence": "Zu_ ______ gehe ich in die Kantine.",
+      "Answer": "Zum Mittagessen"
+    },
+    {
+      "Word": "die Kantine, -n",
+      "Translation": "canteen",
+      "Example Sentence": "Zum Mittagessen gehe ich in die ______.",
+      "Answer": "Kantine"
+    },
+    {
+      "Word": "fast",
+      "Translation": "almost",
+      "Example Sentence": "Ich nehme ______ immer das vegetarische Gericht.",
+      "Answer": "fast"
+    },
+    {
+      "Word": "vegetarisch",
+      "Translation": "vegetarian",
+      "Example Sentence": "Mayla isst nur ______.",
+      "Answer": "vegetarisch"
+    },
+    {
+      "Word": "das Gericht, -e",
+      "Translation": "dish",
+      "Example Sentence": "Ich nehme fast immer das vegetarische ______.",
+      "Answer": "Gericht"
+    },
+    {
+      "Word": "die Gewohnheit, -en",
+      "Translation": "habit",
+      "Example Sentence": "Ich lebe seit 30 Jahren in Deutschland und habe viele ______ übernommen.",
+      "Answer": "Gewohnheiten"
+    },
+    {
+      "Word": "übernehmen, du übernimmst, er übernimmt (hat übernommen)",
+      "Translation": "to adopt",
+      "Example Sentence": "Ich lebe seit 30 Jahren in Deutschland und habe viele Gewohnheiten ______.",
+      "Answer": "übernommen"
+    },
+    {
+      "Word": "die Marmelade, -n",
+      "Translation": "jam",
+      "Example Sentence": "Zum Frühstück esse ich fast immer ______.",
+      "Answer": "ein Marmeladenbrot"
+    }
+]
