@@ -1,0 +1,99 @@
+[
+    {
+      "Word": "das Leben",
+      "Translation": "life",
+      "Example Sentence": "Aus diesem Anlass möchte ich mit Ihnen/Euch feiern und auf ______ als Rentner anstoßen.",
+      "Answer": "mein Leben"
+    },
+    {
+      "Word": "der Rentner, - / die Rentnerin, -nen",
+      "Translation": "retiree",
+      "Example Sentence": "Aus diesem Anlass möchte ich gern mit Ihnen/Euch feiern und auf mein Leben als ______ anstoßen.",
+      "Answer": "Rentner"
+    },
+    {
+      "Word": "die Veranstaltung, -en",
+      "Translation": "event",
+      "Example Sentence": "Wenn Sie ______ oder Feiern in der Kantine planen, dann wenden Sie sich bitte an unsere Küchenchefin Abida Demir.",
+      "Answer": "Veranstaltungen"
+    },
+    {
+      "Word": "wenden (hat gewandt)",
+      "Translation": "to turn to",
+      "Example Sentence": "Bei Fragen ______ Sie sich bitte an Frau Neillinger.",
+      "Answer": "wenden"
+    },
+    {
+      "Word": "stattfinden (hat stattgefunden)",
+      "Translation": "to take place",
+      "Example Sentence": "Die Betriebsversammlung ______ am 15. März um 10.00 Uhr in der Kantine ______.",
+      "Answer": "findet, statt"
+    },
+    {
+      "Word": "der Betriebsrat, -e",
+      "Translation": "works council",
+      "Example Sentence": "______ berichtet zum Thema: unsere Arbeitszeiten.",
+      "Answer": "der Betriebsrat"
+    },
+    {
+      "Word": "berichten (hat berichtet)",
+      "Translation": "to report",
+      "Example Sentence": "Der Betriebsrat ______ zum Thema: unsere Arbeitszeiten.",
+      "Answer": "berichtet"
+    },
+    {
+      "Word": "der Tarif, -e",
+      "Translation": "tariff",
+      "Example Sentence": "Sie haben Fragen zum neuen ______? Wenden Sie sich an den Betriebsrat.",
+      "Answer": "Tarifrecht"
+    },
+    {
+      "Word": "das Recht, -e",
+      "Translation": "right",
+      "Example Sentence": "Wir beraten Sie bei allen Fragen zum ______.",
+      "Answer": "Tarifrecht"
+    },
+    {
+      "Word": "die Kündigung, -en",
+      "Translation": "termination",
+      "Example Sentence": "Ich möchte ______ abgeben. Was muss ich jetzt machen?",
+      "Answer": "meine Kündigung"
+    },
+    {
+      "Word": "die Entlassung, -en",
+      "Translation": "dismissal",
+      "Example Sentence": "Wir beraten Sie bei allen Fragen zum Tarifrecht und bei Kündigungen und ______.",
+      "Answer": "Entlassungen"
+    },
+    {
+      "Word": "die Vorschrift, -en",
+      "Translation": "regulation",
+      "Example Sentence": "Bitte beachten Sie ______!",
+      "Answer": "die Sicherheitsvorschriften"
+    },
+    {
+      "Word": "ohne",
+      "Translation": "without",
+      "Example Sentence": "Betreten Sie die Werkstatt nie ______ Gehörschutz!",
+      "Answer": "ohne"
+    },
+    {
+      "Word": "entlassen, du entlässt, er entlässt (hat entlassen)",
+      "Translation": "to dismiss",
+      "Example Sentence": "Die Gewerkschaft ______ die Mitarbeiter nicht.",
+      "Answer": "entlässt"
+    },
+    {
+      "Word": "schützen (hat geschützt)",
+      "Translation": "to protect",
+      "Example Sentence": "Die Mitarbeiter sollen ihre Ohren ______.",
+      "Answer": "schützen"
+    },
+    {
+      "Word": "(sich) bedanken (hat bedankt)",
+      "Translation": "to thank",
+      "Example Sentence": "______ Sie sich bei Herrn Sauter.",
+      "Answer": "Bedanken"
+    }
+  ]
+  

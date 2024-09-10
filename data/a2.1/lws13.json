@@ -1,0 +1,98 @@
+[
+    {
+        "Word": "die Reservierung, -en",
+        "Translation": "reservation",
+        "Example Sentence": "Bei der Ankunft zeigt man ________ an der Rezeption.",
+        "Answer": "die Reservierungsbestätigung"
+    },
+    {
+        "Word": "die Bestätigung, -en",
+        "Translation": "confirmation",
+        "Example Sentence": "Bei der Ankunft zeigt man ________ an der Rezeption.",
+        "Answer": "die Reservierungsbestätigung"
+    },
+    {
+        "Word": "notieren (hat notiert)",
+        "Translation": "to note",
+        "Example Sentence": "Das Hotel _______ die Reservierung und schickt eine Reservierungsbestätigung.",
+        "Answer": "notiert"
+    },
+    {
+        "Word": "online",
+        "Translation": "online",
+        "Example Sentence": "Zuerst reserviert man per Telefon, E-Mail oder _______ ein Zimmer.",
+        "Answer": "online"
+    },
+    {
+        "Word": "schwierig",
+        "Translation": "difficult",
+        "Example Sentence": "Herr Krassnick ist ________ Gast und braucht ein Hotelzimmer.",
+        "Answer": "ein schwieriger"
+    },
+    {
+        "Word": "die Besprechung, -en",
+        "Translation": "meeting",
+        "Example Sentence": "Karla hat ________, Sandra und Tim sollen sie nur im Notfall anrufen.",
+        "Answer": "eine Besprechung"
+    },
+    {
+        "Word": "nämlich",
+        "Translation": "namely",
+        "Example Sentence": "Herr Krassnick ist kein Gast. Er hat ________ kein Gepäck dabei.",
+        "Answer": "nämlich"
+    },
+    {
+        "Word": "freundlich",
+        "Translation": "friendly",
+        "Example Sentence": "Tim war ________ und klug.",
+        "Answer": "freundlich"
+    },
+    {
+        "Word": "klug",
+        "Translation": "smart",
+        "Example Sentence": "Tim war freundlich und ________.",
+        "Answer": "klug"
+    },
+    {
+        "Word": "der Fehler, -",
+        "Translation": "error",
+        "Example Sentence": "Wenn Sie ________ gemacht haben, dann...",
+        "Answer": "einen Fehler"
+    },
+    {
+        "Word": "wenn",
+        "Translation": "if",
+        "Example Sentence": "________ Sie reserviert haben, dann haben Sie sicher eine Reservierungsbestätigung bekommen.",
+        "Answer": "Wenn"
+    },
+    {
+        "Word": "sicher",
+        "Translation": "sure",
+        "Example Sentence": "Wenn Sie reserviert haben, dann haben Sie ________ eine Reservierungsbestätigung bekommen.",
+        "Answer": "sicher"
+    },
+    {
+        "Word": "das Material, Materialien",
+        "Translation": "material",
+        "Example Sentence": "Wenn du ________ brauchst, dann ruf bitte die Sekretärin an.",
+        "Answer": "Büromaterial"
+    },
+    {
+        "Word": "der Teilnehmer, - / die Teilnehmerin, -nen",
+        "Translation": "participant",
+        "Example Sentence": "Was müssen neue ________ wissen?",
+        "Answer": "Teilnehmer"
+    },
+    {
+        "Word": "der Tipp, -s",
+        "Translation": "tip",
+        "Example Sentence": "________ für die Jobsuche: Lesen Sie regelmäßig die Stellenanzeigen in Zeitungen und im Internet.",
+        "Answer": "Tipp"
+    },
+    {
+        "Word": "regelmäßig",
+        "Translation": "regularly",
+        "Example Sentence": "Lesen Sie ________ die Stellenanzeigen in Zeitungen und im Internet.",
+        "Answer": "regelmäßig"
+    }
+]

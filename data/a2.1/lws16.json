@@ -1,0 +1,123 @@
+[
+    {
+      "Word": "ausrichten (hat ausgerichtet)",
+      "Translation": "to pass on a message",
+      "Example Sentence": "Kann ich ihm etwas ______?",
+      "Answer": "ausrichten"
+    },
+    {
+      "Word": "der Export, -e",
+      "Translation": "export",
+      "Example Sentence": "________, Weigand, guten Tag.",
+      "Answer": "Exportabteilung"
+    },
+    {
+      "Word": "versuchen (hat versucht)",
+      "Translation": "to try",
+      "Example Sentence": "Ich ______ es später noch einmal.",
+      "Answer": "versuche"
+    },
+    {
+      "Word": "niemand",
+      "Translation": "nobody",
+      "Example Sentence": "Nein, da ist im Moment ______ da.",
+      "Answer": "niemand"
+    },
+    {
+      "Word": "der Feierabend, -e",
+      "Translation": "end of the working day",
+      "Example Sentence": "Die haben schon ______.",
+      "Answer": "Feierabend"
+    },
+    {
+      "Word": "der Import, -e",
+      "Example Sentence": "Sie möchten Herrn ... aus ______ sprechen.",
+      "Translation": "import",
+      "Answer": "der Export-Import-Abteilung"
+    },
+    {
+      "Word": "der Arbeitnehmer, - / die Arbeitnehmerin, -nen",
+      "Translation": "employee",
+      "Example Sentence": "Wie viele Stunden pro Woche arbeiten die deutschen ______ durchschnittlich?",
+      "Answer": "Arbeitnehmer"
+    },
+    {
+        "Word": "durchschnittlich",
+        "Translation": "average",
+        "Example Sentence": "Wie viele Stunden pro Woche arbeiten die deutschen Arbeitnehmer ______?",
+        "Answer": "durchschnittlich"
+      },
+    {
+      "Word": "die Ahnung, -en",
+      "Translation": "idea",
+      "Example Sentence": "Feiertage in Deutschland? Keine ______.",
+      "Answer": "Ahnung"
+    },
+    {
+      "Word": "der Nationalfeiertag, -e",
+      "Translation": "national holiday",
+      "Example Sentence": "Da gibt es doch zum Beispiel ______.",
+      "Answer": "den Nationalfeiertag"
+    },
+    {
+      "Word": "die Überstunde, -n",
+      "Translation": "overtime",
+      "Example Sentence": "Viele Menschen arbeiten mehr und machen ______.",
+      "Answer": "Überstunden"
+    },
+    {
+      "Word": "der Lohn, -e",
+      "Translation": "wage",
+      "Example Sentence": "Man arbeitet nicht, aber man bekommt ______.",
+      "Answer": "Lohn"
+    },
+    {
+      "Word": "bieten (hat geboten)",
+      "Translation": "to offer",
+      "Example Sentence": "Der Arbeitgeber ______ Arbeit.",
+      "Answer": "bietet"
+    },
+    {
+      "Word": "die Regel, -n",
+      "Translation": "rule",
+      "Example Sentence": "Deutsche Arbeitnehmer arbeiten in ______ 38,5 Stunden pro Woche.",
+      "Answer": "der Regel"
+    },
+    {
+      "Word": "die Industrie (Sg.)",
+      "Translation": "industry",
+      "Example Sentence": "In ______ muss man nur 35 Stunden pro Woche arbeiten.",
+      "Answer": "der Industrie"
+    },
+    {
+      "Word": "der Durchschnitt, -e",
+      "Translation": "average",
+      "Example Sentence": "41,5 Stunden pro Woche sind europäischer ______.",
+      "Answer": "Durchschnitt"
+    },
+    {
+        "Word": "meiste",
+        "Translation": "most",
+        "Example Sentence": "In den ______ anderen Ländern gibt es nicht so viele Urlaubstage.",
+        "Answer": "meisten"
+      },
+    {
+      "Word": "insgesamt",
+      "Translation": "overall",
+      "Example Sentence": "Wenn man die Urlaubs- und Feiertage zusammenzählt, haben deutsche Arbeitnehmer ______ acht Wochen frei.",
+      "Answer": "insgesamt"
+    },
+    {
+      "Word": "gelten, er gilt (hat gegolten)",
+      "Translation": "to apply",
+      "Example Sentence": "Das ______ auch für mein Heimatland.",
+      "Answer": "gilt"
+    },
+    {
+      "Word": "mindestens",
+      "Translation": "at least",
+      "Example Sentence": "Wie viel Urlaub im Jahr braucht man ______?",
+      "Answer": "mindestens"
+    }
+  ]
+  

@@ -1,0 +1,105 @@
+[
+    {
+      "Word": "achten auf (hat geachtet)",
+      "Translation": "pay attention to",
+      "Example Sentence": "________ Zettel und Aushänge in Kaufhäusern und Supermärkten.",
+      "Answer": "Achten Sie auf"
+    },
+    {
+      "Word": "der Zettel, -",
+      "Translation": "note",
+      "Example Sentence": "Achten Sie auf ________ und Aushänge in Kaufhäusern und Supermärkten.",
+      "Answer": "Zettel"
+    },
+    {
+      "Word": "das Kaufhaus, -er",
+      "Translation": "department store",
+      "Example Sentence": "Achten Sie auf Zettel und Aushänge in ________ und Supermärkten.",
+      "Answer": "Kaufhäusern"
+    },
+    {
+      "Word": "nutzen (hat genutzt)",
+      "Translation": "to use",
+      "Example Sentence": "________ Sie Plattformen, Foren und Portale im Internet.",
+      "Answer": "Nutzen"
+    },
+    {
+        "Word": "die Plattform, -en",
+        "Translation": "platform",
+        "Example Sentence": "Nutzen Sie ________, Foren und Portale im Internet.",
+        "Answer": "Plattformen"
+      },
+    {
+      "Word": "das Forum, Foren",
+      "Translation": "forum",
+      "Example Sentence": "Nutzen Sie Plattformen, ________ und Portale im Internet.",
+      "Answer": "Foren"
+    },
+    {
+      "Word": "die Agentur",
+      "Translation": "agency",
+      "Example Sentence": "Machen Sie einen Termin mit dem BIZ (Berufsinformationszentrum) in ________ für Arbeit.",
+      "Answer": "der Agentur"
+    },
+    {
+      "Word": "die Zeitarbeit, -en",
+      "Translation": "temporary work",
+      "Example Sentence": "Rufen Sie bei ________ an.",
+      "Answer": "Zeitarbeitfirmen"
+    },
+    {
+      "Word": "der Auszubildende, -n",
+      "Translation": "trainee",
+      "Example Sentence": "Im Internet finden Sie Tipps für ________.",
+      "Answer": "Auszubildende"
+    },
+    {
+      "Word": "ausschalten (hat ausgeschaltet)",
+      "Translation": "to turn off",
+      "Example Sentence": "________ Sie Ihr Handy aus.",
+      "Answer": "Schalten"
+    },
+    {
+      "Word": "die Gewerkschaft, -en",
+      "Translation": "union",
+      "Example Sentence": "________ hilft Ihnen und berät Sie bei Fragen.",
+      "Answer": "Die Gewerkschaft"
+    },
+    {
+      "Word": "die Sicherheit (Sg.)",
+      "Translation": "safety",
+      "Example Sentence": "Bitte beachten Sie die ________.",
+      "Answer": "Sicherheitsvorschriften"
+    },
+    {
+      "Word": "der Betrieb, -e",
+      "Translation": "company",
+      "Example Sentence": "Die ________ findet am 15. März um 10.00 Uhr in der Kantine statt.",
+      "Answer": "Betriebsversammlung"
+    },
+    {
+      "Word": "die Frist, -en",
+      "Translation": "deadline",
+      "Example Sentence": "________ bis 31. Oktober.",
+      "Answer": "Anmeldefrist"
+    },
+    {
+      "Word": "die Weiterbildung, -en",
+      "Translation": "further education",
+      "Example Sentence": "In ________ 'Wie spreche ich mit schwierigen Kunden?' sind noch Plätze frei.",
+      "Answer": "der Weiterbildung"
+    },
+    {
+      "Word": "das Interesse (Sg.)",
+      "Translation": "interest",
+      "Example Sentence": "Wenn Sie ________ haben, dann melden Sie sich bei mir im Sekretariat an.",
+      "Answer": "Interesse"
+    },
+    {
+      "Word": "in Rente gehen",
+      "Translation": "to retire",
+      "Example Sentence": "Aber jetzt bin ich 65 und ________.",
+      "Answer": "gehe in Rente"
+    }
+  ]
+  
