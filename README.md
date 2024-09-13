@@ -19,7 +19,7 @@ Wir haben die Wörter und Beispielsätze aus den Büchern gesammelt und in ein A
 
 ## Anki-Deck herunterladen und nutzen
 
-Du kannst das Anki-Deck (A2.1) [hier herunterladen](./data/A2.1_schritte_plus.apkg).
+Du kannst das Anki-Deck ([A2.1](./data/A2.1_schritte_plus.apkg)) [hier herunterladen](https://raw.githubusercontent.com/hp0404/Schritte-Plus-in-Anki/refs/heads/main/data/A2.1_schritte_plus.apkg).
 
 ### Anleitung
 1. **Anki installieren**: Wenn du Anki noch nicht hast, lade es von der [offiziellen Webseite](https://apps.ankiweb.net/) herunter und installiere es.
