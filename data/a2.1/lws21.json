@@ -1,0 +1,56 @@
+[
+    {
+        "Word": "extra",
+        "Translation": "extra",
+        "Example Sentence": "Wer tagsüber neun Kilometer Fahrrad fährt, muss abends nicht noch ______ Sport machen.",
+        "Answer": "extra"
+    },
+    {
+        "Word": "flexibel",
+        "Translation": "flexible",
+        "Example Sentence": "Außerdem ist man mit dem Rad ______.",
+        "Answer": "flexibel"
+    },
+    {
+        "Word": "die Umwelt (Sg.)",
+        "Translation": "the environment",
+        "Example Sentence": "Radfahren ist gut für ______.",
+        "Answer": "die Umwelt"
+    },
+    {
+        "Word": "die Krankenkasse, -n",
+        "Translation": "health insurance company",
+        "Example Sentence": "Bei vielen ______ gibt es kostenlose Sportangebote.",
+        "Answer": "Krankenkassen"
+    },
+    {
+        "Word": "beliebt",
+        "Translation": "popular",
+        "Example Sentence": "In Deutschland ist das Radfahren sehr ______.",
+        "Answer": "beliebt"
+    },
+    {
+        "Word": "die Strecke, -n",
+        "Translation": "route",
+        "Example Sentence": "Für ______ bis 5 Kilometer gilt: Mit dem Auto spart man meistens keine Zeit.",
+        "Answer": "Kurzstrecken"
+    },
+    {
+        "Word": "klar",
+        "Translation": "clear",
+        "Example Sentence": "Das ist doch ______.",
+        "Answer": "klar"
+    },
+    {
+        "Word": "übertreiben (hat übertrieben)",
+        "Translation": "exaggerate",
+        "Example Sentence": "Das finde ich etwas ______.",
+        "Answer": "übertrieben"
+    },
+    {
+        "Word": "selbstverständlich",
+        "Translation": "obvious",
+        "Example Sentence": "Das ist doch ______.",
+        "Answer": "selbstverständlich"
+    }
+]

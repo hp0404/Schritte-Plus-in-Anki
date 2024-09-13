@@ -1,0 +1,128 @@
+[
+    {
+        "Word": "die Gruppe, -n",
+        "Translation": "group",
+        "Example Sentence": "Es gibt verschiedene ______.",
+        "Answer": "Gruppen"
+    },
+    {
+        "Word": "die Ermäßigung, -en",
+        "Translation": "discount",
+        "Example Sentence": "Gibt es ______ für Schüler?",
+        "Answer": "eine Ermäßigung"
+    },
+    {
+        "Word": "kostenlos",
+        "Translation": "free of charge",
+        "Example Sentence": "Die erste Stunde ist ______.",
+        "Answer": "kostenlos"
+    },
+    {
+        "Word": "der Azubi, -s",
+        "Translation": "trainee",
+        "Example Sentence": "Mitgliedsbeitrag: ______ /Studenten: 6 Euro pro Monat",
+        "Answer": "Azubis"
+    },
+    {
+        "Word": "zusätzlich",
+        "Translation": "additional",
+        "Example Sentence": "Für weitere Sportangebote muss man eine ______ Gebühr bezahlen.",
+        "Answer": "zusätzliche"
+    },
+    {
+        "Word": "aktiv",
+        "Translation": "active",
+        "Example Sentence": "______ bleiben.",
+        "Answer": "Aktiv"
+    },
+    {
+        "Word": "joggen (ist gejoggt)",
+        "Translation": "to jog",
+        "Example Sentence": "Sehr einfach und effektiv ist das ______.",
+        "Answer": "Joggen"
+    },
+    {
+        "Word": "(sich) halten, du hältst, er hält (hat gehalten)",
+        "Translation": "to keep oneself",
+        "Example Sentence": "Wie ______ Sie ______ gesund und fit?",
+        "Answer": "halten, sich"
+    },
+    {
+        "Word": "häufig",
+        "Translation": "frequently",
+        "Example Sentence": "Abends habe ich ______ Rückenschmerzen.",
+        "Answer": "häufig"
+    },
+    {
+        "Word": "die Ursache, -n",
+        "Translation": "cause",
+        "Example Sentence": "Zu wenig Bewegung ist eine häufige ______ für Krankheiten.",
+        "Answer": "Ursache"
+    },
+    {
+        "Word": "die Krankheit, -en",
+        "Translation": "illness",
+        "Example Sentence": "Zu wenig Bewegung ist eine häufige Ursache für ______.",
+        "Answer": "Krankheiten"
+    },
+    {
+        "Word": "der Bildschirm, -e",
+        "Translation": "screen",
+        "Example Sentence": "Die meisten Menschen sitzen zu viel: am Schreibtisch, vor ______, vor dem Fernseher.",
+        "Answer": "dem Bildschirm"
+    },
+    {
+        "Word": "der Körper, -",
+        "Translation": "body",
+        "Example Sentence": "Etwas mehr Bewegung im Alltag tut ______ und der Gesundheit gut.",
+        "Answer": "dem Körper"
+    },
+    {
+        "Word": "außerdem",
+        "Translation": "in addition",
+        "Example Sentence": "Nehmen Sie ______ öfter mal die Treppe und nicht den Aufzug.",
+        "Answer": "außerdem"
+    },
+    {
+        "Word": "die Luft (Sg.)",
+        "Translation": "air",
+        "Example Sentence": "Gehen Sie in der Mittagspause kurz an ______ frischen ______ spazieren.",
+        "Answer": "der Luft"
+    },
+    {
+        "Word": "die Untersuchung, -en",
+        "Translation": "study/examination",
+        "Example Sentence": "______ haben gezeigt...",
+        "Answer": "Untersuchungen"
+    },
+    {
+        "Word": "schaffen (hat geschafft)",
+        "Translation": "to manage",
+        "Example Sentence": "Wer schnell geht, ______ 1000 Schritte in 10 Minuten.",
+        "Answer": "schafft"
+    },
+    {
+        "Word": "preiswert",
+        "Translation": "affordable",
+        "Example Sentence": "Sport muss nicht teuer sein. Es geht auch ______.",
+        "Answer": "preiswert"
+    },
+    {
+        "Word": "laufen, du läufst, er läuft (ist gelaufen)",
+        "Translation": "to walk, run",
+        "Example Sentence": "Wenn Sie nicht gern ______, können Sie auch einfach schnell gehen.",
+        "Answer": "laufen"
+    },
+    {
+        "Word": "der Trend, -s",
+        "Translation": "trend",
+        "Example Sentence": "______ ist das sogenannte Nordic-Walking.",
+        "Answer": "ein Trend"
+    },
+    {
+        "Word": "der Spielplatz, -e",
+        "Translation": "playground",
+        "Example Sentence": "In vielen deutschen Städten gibt es Tischtennisplatten auf ______ und in Parks.",
+        "Answer": "Spielplätzen"
+    }
+]

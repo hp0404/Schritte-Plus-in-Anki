@@ -1,0 +1,128 @@
+[
+    {
+        "Word": "der Meister, -",
+        "Translation": "master",
+        "Example Sentence": "Übung macht ______!",
+        "Answer": "den Meister"
+    },
+    {
+        "Word": "die Sportart, -en",
+        "Translation": "type of sport",
+        "Example Sentence": "Welche ______ können Sie besonders gut?",
+        "Answer": "Sportart"
+    },
+    {
+        "Word": "die Entspannung (Sg.)",
+        "Translation": "relaxation",
+        "Example Sentence": "______ : Machen Sie Pausen und entspannen Sie sich.",
+        "Answer": "Entspannung"
+    },
+    {
+        "Word": "die Ernährung (Sg.)",
+        "Translation": "nutrition",
+        "Example Sentence": "______ : Trinken Sie viel Wasser oder Tee und essen Sie viel Obst und Gemüse.",
+        "Answer": "Ernährung"
+    },
+    {
+        "Word": "die Bewegung, -en",
+        "Translation": "movement",
+        "Example Sentence": "______ : Bewegen Sie sich regelmäßig!",
+        "Answer": "Bewegung"
+    },
+    {
+        "Word": "fit",
+        "Translation": "fit",
+        "Example Sentence": "So werden Sie wieder ______.",
+        "Answer": "fit"
+    },
+    {
+        "Word": "der Spaziergang, -e",
+        "Translation": "walk",
+        "Example Sentence": "Schon ein kurzer ______ hilft.",
+        "Answer": "Spaziergang"
+    },
+    {
+        "Word": "(sich) verabreden mit (hat verabredet)",
+        "Translation": "to arrange to meet",
+        "Example Sentence": "______ Sie sich mit Freunden.",
+        "Answer": "Verabreden"
+    },
+    {
+        "Word": "(sich) aus-ruhen (hat ausgeruht)",
+        "Translation": "to rest",
+        "Example Sentence": "______ Sie sich regelmäßig ______.",
+        "Answer": "Ruhen, aus"
+    },
+    {
+        "Word": "(sich) ernähren (hat ernährt)",
+        "Translation": "to nourish oneself",
+        "Example Sentence": "Sie sollten sich gesund ______.",
+        "Answer": "ernähren"
+    },
+    {
+        "Word": "(sich) ärgern (über) (hat geärgert)",
+        "Translation": "to be annoyed",
+        "Example Sentence": "Vielleicht ______ du dich zu viel.",
+        "Answer": "ärgerst"
+    },
+    {
+        "Word": "(sich) schminken (hat geschminkt)",
+        "Translation": "to put on makeup",
+        "Example Sentence": "Was mache ich? - ______ du dich?",
+        "Answer": "Schminkst"
+    },
+    {
+        "Word": "(sich) rasieren (hat rasiert)",
+        "Translation": "to shave",
+        "Example Sentence": "______ du dich? - Ja, das ist richtig.",
+        "Answer": "Rasierst"
+    },
+    {
+        "Word": "(sich) um-ziehen (hat umgezogen)",
+        "Translation": "to change clothes",
+        "Example Sentence": "Er ______ sich ______.",
+        "Answer": "zieht, um"
+    },
+    {
+        "Word": "(sich) kämmen (hat gekämmt)",
+        "Translation": "to comb one's hair",
+        "Example Sentence": "Sie ______ sich.",
+        "Answer": "kämmt"
+    },
+    {
+        "Word": "(sich) waschen, du wäschst, er wäscht (hat gewaschen)",
+        "Translation": "to wash",
+        "Example Sentence": "Er ______ sich.",
+        "Answer": "wäscht"
+    },
+    {
+        "Word": "(sich) beeilen (hat beeilt)",
+        "Translation": "to hurry",
+        "Example Sentence": "Wir müssen uns ______.",
+        "Answer": "beeilen"
+    },
+    {
+        "Word": "(sich) konzentrieren (auf) (hat konzentriert)",
+        "Translation": "to concentrate",
+        "Example Sentence": "Ich kann mich heute nicht ______.",
+        "Answer": "konzentrieren"
+    },
+    {
+        "Word": "(sich) beschweren (über) (hat beschwert)",
+        "Translation": "to complain",
+        "Example Sentence": "Dein Klassenlehrer hat sich über dich ______.",
+        "Answer": "beschwert"
+    },
+    {
+        "Word": "überhaupt",
+        "Translation": "at all",
+        "Example Sentence": "Nein, ______ nicht.",
+        "Answer": "überhaupt"
+    },
+    {
+        "Word": "die Zeitschrift, -en",
+        "Translation": "magazine",
+        "Example Sentence": "Interessierst du dich für ______?",
+        "Answer": "Modezeitschriften"
+    }
+]

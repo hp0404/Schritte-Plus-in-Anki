@@ -1,0 +1,68 @@
+[
+    {
+        "Word": "(sich) bewegen (hat bewegt)",
+        "Translation": "to move",
+        "Example Sentence": "Ich ______ mich zurzeit nicht genug.",
+        "Answer": "bewege"
+    },
+    {
+        "Word": "(sich) interessieren für (hat interessiert)",
+        "Translation": "to be interested in",
+        "Example Sentence": "Ich ______ mich sehr für den Tanzsport.",
+        "Answer": "interessiere"
+    },
+    {
+        "Word": "der Tanz, -e",
+        "Translation": "dance",
+        "Example Sentence": "Ich interessiere mich sehr für ______sport.",
+        "Answer": "den Tanz"
+    },
+    {
+        "Word": "der Basketball",
+        "Translation": "basketball",
+        "Example Sentence": "Wann findet denn ______ statt?",
+        "Answer": "das Basketballtraining"
+    },
+    {
+        "Word": "(sich) fühlen (hat gefühlt)",
+        "Translation": "to feel",
+        "Example Sentence": "Tim ______ sich nicht so gut.",
+        "Answer": "fühlt"
+    },
+    {
+        "Word": "zu wenig",
+        "Translation": "too little",
+        "Example Sentence": "Tim fühlt sich nicht so gut, weil er ______ Sport macht.",
+        "Answer": "zu wenig"
+    },
+    {
+        "Word": "das Video, -s",
+        "Translation": "video",
+        "Example Sentence": "Sandra schickt Tim ______.",
+        "Answer": "ein Trainingsvideo"
+    },
+    {
+        "Word": "hin-fallen, du fällst hin, er fällt hin (ist hingefallen)",
+        "Translation": "to fall",
+        "Example Sentence": "Doch das ist gar nicht so einfach, er ______ dabei ______.",
+        "Answer": "fällt, hin"
+    },
+    {
+        "Word": "die Lust (Sg.)",
+        "Translation": "desire",
+        "Example Sentence": "Auf Tanzen hat Tim keine ______.",
+        "Answer": "Lust"
+    },
+    {
+        "Word": "der Verein, -e",
+        "Translation": "club",
+        "Example Sentence": "Er ruft bei ______ an.",
+        "Answer": "einem Sportverein"
+    },
+    {
+        "Word": "der Versuch, -e",
+        "Translation": "attempt",
+        "Example Sentence": "Tim erzählt Sandra von dem Training und seinen ______.",
+        "Answer": "Tanzversuchen"
+    }
+]

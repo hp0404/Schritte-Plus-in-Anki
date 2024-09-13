@@ -1,0 +1,134 @@
+[
+    {
+        "Word": "die Geschichte (Sg.)",
+        "Translation": "history",
+        "Example Sentence": "Interessierst du dich für die deutsche ______?",
+        "Answer": "Geschichte"
+    },
+    {
+        "Word": "das Theater, -",
+        "Translation": "theater",
+        "Example Sentence": "Interessierst du dich für ______?",
+        "Answer": "das Theater"
+    },
+    {
+        "Word": "die Nachrichten (Pl.)",
+        "Translation": "news",
+        "Example Sentence": "Interessierst du dich für ______?",
+        "Answer": "die Nachrichten"
+    },
+    {
+        "Word": "die Weltmeisterschaft, -en",
+        "Translation": "world championship",
+        "Example Sentence": "Interessierst du dich für ______?",
+        "Answer": "die Fußballweltmeisterschaft"
+    },
+    {
+        "Word": "die Wettervorhersage, -n",
+        "Translation": "weather forecast",
+        "Example Sentence": "Interessierst du dich für ______?",
+        "Answer": "die Wettervorhersage"
+    },
+    {
+        "Word": "die Mannschaft, -en",
+        "Translation": "team",
+        "Example Sentence": "Morgen treffe ich mich mit ein paar ______.",
+        "Answer": "Mannschaftkollegen"
+    },
+    {
+        "Word": "der Besuch, -e",
+        "Translation": "visit",
+        "Example Sentence": "Ich freue mich schon sehr auf deinen ______!",
+        "Answer": "Besuch"
+    },
+    {
+        "Word": "(sich) kümmern um (hat gekümmert)",
+        "Translation": "to take care of",
+        "Example Sentence": "Arbeitgeber müssen sich um den Gesundheitsschutz im Betrieb ______.",
+        "Answer": "kümmern"
+    },
+    {
+        "Word": "träumen von (hat geträumt)",
+        "Translation": "to dream of",
+        "Example Sentence": "Ich ______ oft ______ meinem Urlaub.",
+        "Answer": "träume, von"
+    },
+    {
+        "Word": "die Angst, -e",
+        "Translation": "fear",
+        "Example Sentence": "Ich habe ______ vor Hunden.",
+        "Answer": "Angst"
+    },
+    {
+        "Word": "ehrlich",
+        "Translation": "honestly",
+        "Example Sentence": "______ gesagt: nein.",
+        "Answer": "Ehrlich"
+    },
+    {
+        "Word": "das Gold (Sg.)",
+        "Translation": "gold",
+        "Example Sentence": "Ich träume von ______ für Kroatien.",
+        "Answer": "einer Goldmedaille"
+    },
+    {
+        "Word": "die Saison, -s",
+        "Translation": "season",
+        "Example Sentence": "Morgen beginnt die Eishockey-______.",
+        "Answer": "Saison"
+    },
+    {
+        "Word": "(sich) erinnern an (hat erinnert)",
+        "Translation": "to remember",
+        "Example Sentence": "Daran kann ich mich gar nicht mehr ______.",
+        "Answer": "erinnern"
+    },
+    {
+        "Word": "denken an (hat gedacht)",
+        "Translation": "to think of",
+        "Example Sentence": "Ich ______ gern ______ die Ferien.",
+        "Answer": "denke, an"
+    },
+    {
+        "Word": "die Ferien (Pl.)",
+        "Translation": "vacation/holidays",
+        "Example Sentence": "Ich denke gern an ______.",
+        "Answer": "die Ferien"
+    },
+    {
+        "Word": "die Gymnastik (Sg.)",
+        "Translation": "gymnastics",
+        "Example Sentence": "Die Anrufer interessieren sich für ______.",
+        "Answer": "Rückengymnastik"
+    },
+    {
+        "Word": "das Tischtennis (Sg.)",
+        "Translation": "table tennis",
+        "Example Sentence": "Die Anrufer interessieren sich für ______.",
+        "Answer": "Tischtennis"
+    },
+    {
+        "Word": "der Volleyball (Sg.)",
+        "Translation": "volleyball",
+        "Example Sentence": "Ich interessiere mich für ______.",
+        "Answer": "Volleyball"
+    },
+    {
+        "Word": "die Fitness (Sg.)",
+        "Translation": "fitness",
+        "Example Sentence": "Ich möchte mich ______ anmelden.",
+        "Answer": "zum Fitnesstraining"
+    },
+    {
+        "Word": "der Beitrag, -e",
+        "Translation": "contribution",
+        "Example Sentence": "______ : 5 Euro pro Monat.",
+        "Answer": "Mitgliedsbeitrag"
+    },
+    {
+        "Word": "betragen, er beträgt (hat betragen)",
+        "Translation": "to amount to",
+        "Example Sentence": "Der Mitgliedsbeitrag ______ 5 Euro pro Monat.",
+        "Answer": "beträgt"
+    }
+]
