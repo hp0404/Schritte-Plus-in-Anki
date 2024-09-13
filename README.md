@@ -1,35 +1,41 @@
-# Lernwortschatz Transkription zu JSON
+# Lernwortschatz aus Schritte Plus in Anki
 
-## Projektübersicht
+## Überblick
 
-Dieses Projekt konzentriert sich darauf, Vokabeln (Lernwortschatz) aus einem deutschen Sprachlehrbuch in ein strukturiertes JSON-Format zu transkribieren. Ziel ist es, eine digitale Version der Vokabelliste zu erstellen, die das deutsche Wort, die englische Übersetzung, einen Beispielsatz mit ausgelassenem Wort und das ursprüngliche Wort enthält.
+In diesem Projekt wandeln wir den Lernwortschatz aus den Schritte Plus Lehrbüchern in Anki-Karteikarten um. So kannst du die Vokabeln leichter lernen und wiederholen.
 
-## Zweck
+## Ziel
 
-Das Ziel dieses Projekts ist es, den Lernwortschatz aus dem Lehrbuch zu digitalisieren. So können die Daten leichter zugänglich gemacht und in Sprachlern-Apps, Tools oder Datenbanken integriert werden. Das JSON-Format sorgt dafür, dass die Daten gut strukturiert, durchsuchbar und programmatisch verwendbar sind.
+Unser Ziel ist es, alle wichtigen Vokabeln aus den Schritte Plus Büchern digital verfügbar zu machen. Mit Anki kannst du diese Wörter effektiv üben, da es ein System zur intelligenten Wiederholung nutzt.
 
-## Wie es funktioniert
+## Wie funktioniert es?
 
-### Aufgabenübersicht
+Wir haben die Wörter und Beispielsätze aus den Büchern gesammelt und in ein Anki-Deck gepackt. Jede Karte enthält:
 
-Die Aufgabe besteht darin, die Vokabeln und die dazugehörigen Beispielsätze manuell aus den bereitgestellten Bildern des Lehrbuchs zu transkribieren. Jeder Vokabeleintrag wird in vier spezifische Spalten unterteilt:
+1. **Wort**: Das deutsche Wort aus dem Buch.
+2. **Übersetzung**: Die englische Bedeutung des Wortes.
+3. **Beispielsatz**: Einen Satz aus dem Buch mit einer Lücke statt des Wortes.
+4. **Antwort**: Das fehlende Wort im Satz.
 
-1. **Wort**: Das deutsche Vokabelwort (einschließlich aller Formen) wie es im Lehrbuch steht.
-2. **Übersetzung**: Die englische Übersetzung des Wortes, basierend auf dem Beispielsatz.
-3. **Beispielsatz**: Ein Beispielsatz aus dem Lehrbuch, bei dem das Vokabelwort durch einen Unterstrich ersetzt wurde. Dies dient als Lückentext.
-4. **Antwort**: Das ursprüngliche Vokabelwort, das im Beispielsatz ersetzt wurde.
+## Anki-Deck herunterladen und nutzen
 
-### Ausgabeformat
+Du kannst das Anki-Deck (A2.1) [hier herunterladen](./data/A2.1_schritte_plus.apkg).
 
-Die Ausgabe ist ein JSON-Array, in dem jedes Vokabelwort und die zugehörigen Details als Objekt dargestellt werden. Hier ist ein Beispiel für das Ausgabeformat:
+### Anleitung
+1. **Anki installieren**: Wenn du Anki noch nicht hast, lade es von der [offiziellen Webseite](https://apps.ankiweb.net/) herunter und installiere es.
+2. **Deck importieren**:
+- Öffne Anki
+- Klicke auf `Datei > Importieren`
+- Wähle die heruntergeladene Datei [A2.1_schritte_plus.apkg](./data/A2.1_schritte_plus.apkg) aus
+- Das Deck wird nun importiert
+3. **Mit dem Lernen beginnen:**
+- Wähle das neue Deck in Anki aus
+- Klicke auf Lernen, um zu starten
 
-```json
-[
-  {
-    "Word": "weil",
-    "Translation": "because",
-    "Example Sentence": "Ich bin traurig, ______ ich hier keinen Menschen kenne.",
-    "Answer": "weil"
-  }
-]
-```
+### Beispielansichten
+
+So sieht das Deck in Anki aus:
+
+![1](./assets/image_2024-09-14_00-11-35.png)
+![2](./assets/image_2024-09-14_00-11-47.png)
+![3](./assets/image_2024-09-14_00-11-59.png)
