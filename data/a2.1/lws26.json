@@ -1,0 +1,122 @@
+[
+    {
+        "Word": "unbekannt",
+        "Translation": "unknown",
+        "Example Sentence": "Wer ist der ______ Mann?",
+        "Answer": "unbekannte"
+    },
+    {
+        "Word": "(sich) vorbereiten (hat vorbereitet)",
+        "Translation": "prepare",
+        "Example Sentence": "Was ______ die Freunde für das Fest vor?",
+        "Answer": "bereiten"
+    },
+    {
+        "Word": "basteln (hat gebastelt)",
+        "Translation": "craft",
+        "Example Sentence": "Betty ______ eine Karte.",
+        "Answer": "bastelt"
+    },
+    {
+        "Word": "entscheiden (hat entschieden)",
+        "Translation": "decide",
+        "Example Sentence": "Wie ______ sich Tim?",
+        "Answer": "entscheidet"
+    },
+    {
+        "Word": "schenken (hat geschenkt)",
+        "Translation": "give as a gift",
+        "Example Sentence": "Ich habe meinem Mann mal Gartenstühle ______.",
+        "Answer": "geschenkt"
+    },
+    {
+        "Word": "das Baby, -s",
+        "Translation": "baby",
+        "Example Sentence": "Ich kaufe ______ einen Teddy.",
+        "Answer": "meinem Baby"
+    },
+    {
+        "Word": "die Kette, -n",
+        "Translation": "necklace",
+        "Example Sentence": "Jan schenkt Lena ______.",
+        "Answer": "eine Kette"
+    },
+    {
+        "Word": "raten, du rätst, er rät (hat geraten)",
+        "Translation": "guess",
+        "Example Sentence": "Spielen Sie zu zweit und ______ Sie.",
+        "Answer": "raten"
+    },
+    {
+        "Word": "die Puppe, -n",
+        "Translation": "doll",
+        "Example Sentence": "Die Oma bringt Pia ______ mit.",
+        "Answer": "eine Puppe"
+    },
+    {
+        "Word": "die DVD, -s",
+        "Translation": "DVD",
+        "Example Sentence": "Schenkst du deinem Opa ______?",
+        "Answer": "einen DVD-Player"
+    },
+    {
+        "Word": "das Parfüm, -e / -s",
+        "Translation": "perfume",
+        "Example Sentence": "Er kauft seiner Frau ______.",
+        "Answer": "ein Parfüm"
+    },
+    {
+        "Word": "die Creme, -s",
+        "Translation": "cream",
+        "Example Sentence": "Schenkst du deiner Mutter ______?",
+        "Answer": "eine Handcreme"
+    },
+    {
+        "Word": "der Geldbeutel, -",
+        "Translation": "wallet",
+        "Example Sentence": "Gibst du mir bitte ______?",
+        "Answer": "meinen Geldbeutel"
+    },
+    {
+        "Word": "probieren (hat probiert)",
+        "Translation": "try",
+        "Example Sentence": "______ Sie doch mal das Tzatziki, Herr Wagner.",
+        "Answer": "Probieren"
+    },
+    {
+        "Word": "die Nudel, -n",
+        "Translation": "noodle",
+        "Example Sentence": "Pizza, ______, feine Weine - Sie bestellen Ihr Wunschgericht.",
+        "Answer": "Nudeln"
+    },
+    {
+        "Word": "das Gericht, -e",
+        "Translation": "dish",
+        "Example Sentence": "Sie bestellen Ihr ______ und wir liefern es Ihnen.",
+        "Answer": "Wunschgericht"
+    },
+    {
+        "Word": "liefern (hat geliefert)",
+        "Translation": "deliver",
+        "Example Sentence": "Sie bestellen Ihr Wunschgericht und wir ______ es Ihnen.",
+        "Answer": "liefern"
+    },
+    {
+        "Word": "zuverlässig",
+        "Translation": "reliable",
+        "Example Sentence": "Wir liefern es Ihnen schnell und ______.",
+        "Answer": "zuverlässig"
+    },
+    {
+        "Word": "Sonder-",
+        "Translation": "special",
+        "Example Sentence": "Sie haben ______?",
+        "Answer": "einen Sonderwunsch"
+    },
+    {
+        "Word": "nennen (hat genannt)",
+        "Translation": "name",
+        "Example Sentence": "Sie haben einen Sonderwunsch? ______ Sie ihn uns einfach.",
+        "Answer": "Nennen"
+    }
+]

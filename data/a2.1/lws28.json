@@ -1,0 +1,56 @@
+[
+    {
+        "Word": "der Tod (Sg.)",
+        "Translation": "death",
+        "Example Sentence": "Uhren sind in meinem Land als Geschenk tabu, weil sie ______ symbolisieren.",
+        "Answer": "den Tod"
+    },
+    {
+        "Word": "ausgeben, du gibst aus, er gibt aus (hat ausgegeben)",
+        "Translation": "spend",
+        "Example Sentence": "Für ein Geschenk sollte man nicht zu viel Geld ______.",
+        "Answer": "ausgeben"
+    },
+    {
+        "Word": "die Heimat (Sg.)",
+        "Translation": "homeland",
+        "Example Sentence": "In ______ schenken wir gern Pralinen und Schokolade.",
+        "Answer": "meiner Heimat"
+    },
+    {
+        "Word": "per",
+        "Translation": "via",
+        "Example Sentence": "Man kann die Gäste ______ SMS einladen.",
+        "Answer": "per"
+    },
+    {
+        "Word": "die SMS, -",
+        "Translation": "text message",
+        "Example Sentence": "Man kann die Gäste per ______ einladen.",
+        "Answer": "SMS"
+    },
+    {
+        "Word": "(sich) unterhalten, du unterhältst, er unterhält (hat unterhalten)",
+        "Translation": "entertain",
+        "Example Sentence": "Hauptsache, das Essen ist gut und wir ______ gut.",
+        "Answer": "unterhalten uns"
+    },
+    {
+        "Word": "dekorieren (hat dekoriert)",
+        "Translation": "decorate",
+        "Example Sentence": "Ich finde, wir müssen den Raum nicht ______.",
+        "Answer": "dekorieren"
+    },
+    {
+        "Word": "die Unterhaltung, -en",
+        "Translation": "entertainment",
+        "Example Sentence": "Mir ist ______ wichtig.",
+        "Answer": "die Unterhaltung"
+    },
+    {
+        "Word": "überzeugen (hat überzeugt)",
+        "Translation": "convince",
+        "Example Sentence": "Stellen Sie Ihr Fest vor und ______ Sie die anderen im Kurs.",
+        "Answer": "überzeugen"
+    }
+]

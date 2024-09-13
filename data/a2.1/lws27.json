@@ -1,0 +1,146 @@
+[
+    {
+        "Word": "die Schachtel, -n",
+        "Translation": "box",
+        "Example Sentence": "Kannst du mir ______ da rübergeben?",
+        "Answer": "die Schachtel"
+    },
+    {
+        "Word": "ausdrucken (hat ausgedruckt)",
+        "Translation": "print out",
+        "Example Sentence": "Ich muss nur noch schnell die Rechnung ______.",
+        "Answer": "ausdrucken"
+    },
+    {
+        "Word": "die Briefmarke, -n",
+        "Translation": "stamp",
+        "Example Sentence": "Kannst du mir bitte ______ geben?",
+        "Answer": "die Briefmarken"
+    },
+    {
+        "Word": "die Leute (Pl.)",
+        "Translation": "people",
+        "Example Sentence": "Was machen ______ auf dem Fest?",
+        "Answer": "die Leute"
+    },
+    {
+        "Word": "die Kirche, -n",
+        "Translation": "church",
+        "Example Sentence": "Wir sind schon in ______.",
+        "Answer": "der Kirche"
+    },
+    {
+        "Word": "die Trauung, -en",
+        "Translation": "wedding ceremony",
+        "Example Sentence": "In zehn Minuten beginnt ______.",
+        "Answer": "die Trauung"
+    },
+    {
+        "Word": "wahnsinnig",
+        "Translation": "crazy",
+        "Example Sentence": "Bist du ______?",
+        "Answer": "wahnsinnig"
+    },
+    {
+        "Word": "die Stimmung (Sg.)",
+        "Translation": "mood",
+        "Example Sentence": "Wahnsinnig viele Leute hier und eine ganz feierliche ______.",
+        "Answer": "Stimmung"
+    },
+    {
+        "Word": "blöd",
+        "Translation": "stupid",
+        "Example Sentence": "Oh Mann, so ______, dass ich krank bin!",
+        "Answer": "blöd"
+    },
+    {
+        "Word": "grüßen (hat gegrüßt)",
+        "Translation": "greet",
+        "Example Sentence": "______ alle von mir!",
+        "Answer": "Grüß"
+    },
+    {
+        "Word": "wunderschön",
+        "Translation": "beautiful",
+        "Example Sentence": "Es war ______.",
+        "Answer": "wunderschön"
+    },
+    {
+        "Word": "weinen (hat geweint)",
+        "Translation": "cry",
+        "Example Sentence": "Ich habe sogar ______.",
+        "Answer": "geweint"
+    },
+    {
+        "Word": "typisch",
+        "Translation": "typical",
+        "Example Sentence": "Und ja: ______ Celia!",
+        "Answer": "Typisch"
+    },
+    {
+        "Word": "die Torte, -n",
+        "Translation": "cake",
+        "Example Sentence": "Hmm, superlecker, ______!",
+        "Answer": "die Hochzeitstorte"
+    },
+    {
+        "Word": "übrigens",
+        "Translation": "by the way",
+        "Example Sentence": "______ haben sich Celia und Valentin total über dein Geschenk gefreut.",
+        "Answer": "Übrigens"
+    },
+    {
+        "Word": "treten, du trittst, er tritt (ist getreten)",
+        "Translation": "step",
+        "Example Sentence": "Valentin ist Celia auf das lange weiße Kleid ______ und beide sind fast hingefallen.",
+        "Answer": "getreten"
+    },
+    {
+        "Word": "wohl",
+        "Translation": "probably",
+        "Example Sentence": "Da war Valentin ______ ein bisschen nervös, was?",
+        "Answer": "wohl"
+    },
+    {
+        "Word": "nervös",
+        "Translation": "nervous",
+        "Example Sentence": "Da war Valentin wohl ein bisschen ______, was?",
+        "Answer": "nervös"
+    },
+    {
+        "Word": "wenigstens",
+        "Translation": "at least",
+        "Example Sentence": "______ die Eltern können tanzen!",
+        "Answer": "Wenigstens"
+    },
+    {
+        "Word": "wach",
+        "Translation": "awake",
+        "Example Sentence": "Miri, bist du schon ______?",
+        "Answer": "wach"
+    },
+    {
+        "Word": "wild",
+        "Translation": "wild",
+        "Example Sentence": "Du, das war noch eine ______ Feier.",
+        "Answer": "wilde"
+    },
+    {
+        "Word": "tragen, du trägst, er trägt (hat getragen)",
+        "Translation": "wear",
+        "Example Sentence": "Was hat die Braut ______?",
+        "Answer": "getragen"
+    },
+    {
+        "Word": "persönlich",
+        "Translation": "personal",
+        "Example Sentence": "Ein Gutschein ist nicht ______ genug, finde ich.",
+        "Answer": "persönlich"
+    },
+    {
+        "Word": "das Herz, -en",
+        "Translation": "heart",
+        "Example Sentence": "Hauptsache, es kommt von ______.",
+        "Answer": "Herzen"
+    }
+]
