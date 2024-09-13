@@ -1,0 +1,68 @@
+[
+    {
+        "Word": "bestehen (hat bestanden)",
+        "Translation": "pass",
+        "Example Sentence": "Die Abschlussprüfung hat sie sehr gut ______.",
+        "Answer": "bestanden"
+    },
+    {
+        "Word": "der Migrationshintergrund (Sg.)",
+        "Translation": "migration background",
+        "Example Sentence": "Sie war die einzige Studentin mit türkischem ______.",
+        "Answer": "Migrationshintergrund"
+    },
+    {
+        "Word": "stolz",
+        "Translation": "proud",
+        "Example Sentence": "Ihre Eltern sind sehr ______ auf Ayşe.",
+        "Answer": "stolz"
+    },
+    {
+        "Word": "elektrisch",
+        "Translation": "electric",
+        "Example Sentence": "______ Geräte haben ihn schon immer interessiert.",
+        "Answer": "Elektrische"
+    },
+    {
+        "Word": "die Technik (Sg.)",
+        "Translation": "technology",
+        "Example Sentence": "Ich habe mit ______ zu tun.",
+        "Answer": "Technik"
+    },
+    {
+        "Word": "der Kontakt, -e",
+        "Translation": "contact",
+        "Example Sentence": "Ich habe oft ______ zu Kunden.",
+        "Answer": "Kontakt"
+    },
+    {
+        "Word": "anerkennen (hat anerkannt)",
+        "Translation": "recognize",
+        "Example Sentence": "Dafür musste er seine Ausbildung in Deutschland ______ lassen.",
+        "Answer": "anerkennen"
+    },
+    {
+        "Word": "prüfen (hat geprüft)",
+        "Translation": "check",
+        "Example Sentence": "Eine Behörde hat ______: Ist seine Ausbildung in Bulgarien mit der deutschen identisch?",
+        "Answer": "geprüft"
+    },
+    {
+        "Word": "kompliziert",
+        "Translation": "complicated",
+        "Example Sentence": "Das war ziemlich ______.",
+        "Answer": "kompliziert"
+    },
+    {
+        "Word": "der Bäcker, - / die Bäckerin, -nen",
+        "Translation": "baker",
+        "Example Sentence": "Dein Traumberuf ist ______?",
+        "Answer": "Bäcker"
+    },
+    {
+        "Word": "der Schauspieler, - / die Schauspielerin, -nen",
+        "Translation": "actor",
+        "Example Sentence": "Ist dein Traumberuf ______?",
+        "Answer": "Schauspieler"
+    }
+]

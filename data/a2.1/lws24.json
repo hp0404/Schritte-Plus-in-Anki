@@ -1,0 +1,116 @@
+[
+    {
+        "Word": "der Beginn (Sg.)",
+        "Translation": "start",
+        "Example Sentence": "______: 8. März.",
+        "Answer": "Beginn"
+    },
+    {
+        "Word": "die Theorie, -n",
+        "Translation": "theory",
+        "Example Sentence": "Sie möchten den Führerschein machen, verstehen aber die Fragen für ______ nicht richtig?",
+        "Answer": "die Theorieprüfung"
+    },
+    {
+        "Word": "die Einführung, -en",
+        "Translation": "introduction",
+        "Example Sentence": "______ in den PC: Keine Angst mehr vor Computern!",
+        "Answer": "Einführung"
+    },
+    {
+        "Word": "speichern (hat gespeichert)",
+        "Translation": "save",
+        "Example Sentence": "Lernen Sie den sicheren Umgang mit „Word“: schreiben, ______, drucken.",
+        "Answer": "speichern"
+    },
+    {
+        "Word": "der Migrant, -en / die Migrantin, -nen",
+        "Translation": "migrant",
+        "Example Sentence": "Berufsvorbereitungsjahr für ______ und Migrantinnen.",
+        "Answer": "Migranten"
+    },
+    {
+        "Word": "sozial",
+        "Translation": "social",
+        "Example Sentence": "Deutsch für den Beruf lernen und berufliche und ______ Kompetenzen erwerben.",
+        "Answer": "soziale"
+    },
+    {
+        "Word": "der Vortrag, -e",
+        "Translation": "lecture",
+        "Example Sentence": "______ Bewerbungstraining.",
+        "Answer": "Vortrag"
+    },
+    {
+        "Word": "(sich) bewerben, du bewirbst, er bewirbt (hat beworben)",
+        "Translation": "apply",
+        "Example Sentence": "Wie ______ man ______ richtig?",
+        "Answer": "bewirbt, sich"
+    },
+    {
+        "Word": "präsentieren (hat präsentiert)",
+        "Translation": "present",
+        "Example Sentence": "Wie ______ man sich beim Vorstellungsgespräch?",
+        "Answer": "präsentiert"
+    },
+    {
+        "Word": "der Experte, -n / die Expertin, -nen",
+        "Translation": "expert",
+        "Example Sentence": "Unsere ______ zeigt Ihnen die besten Tipps und Tricks.",
+        "Answer": "Expertin"
+    },
+    {
+        "Word": "die Vorbereitung, -en",
+        "Translation": "preparation",
+        "Example Sentence": "______ zum 'Einbürgerungstest'.",
+        "Answer": "Vorbereitungskurs"
+    },
+    {
+        "Word": "das Zertifikat, -e",
+        "Translation": "certificate",
+        "Example Sentence": "Halbjähriger Lehrgang mit ______.",
+        "Answer": "Abschlusszertifikat"
+    },
+    {
+        "Word": "die Förderung, -en",
+        "Translation": "support",
+        "Example Sentence": "______ durch die Bundesagentur für Arbeit möglich.",
+        "Answer": "Förderung"
+    },
+    {
+        "Word": "möglich",
+        "Translation": "possible",
+        "Example Sentence": "Förderung durch die Bundesagentur für Arbeit ______.",
+        "Answer": "möglich"
+    },
+    {
+        "Word": "die Beratung, -en",
+        "Translation": "advice",
+        "Example Sentence": "Anmeldung und ______: Frau Müller-Siechenneder, Tel. 45 01 720.",
+        "Answer": "Beratung"
+    },
+    {
+        "Word": "(sich) verletzen (hat verletzt)",
+        "Translation": "injure oneself",
+        "Example Sentence": "Ihr Kind hat ______.",
+        "Answer": "sich verletzt"
+    },
+    {
+        "Word": "bluten (hat geblutet)",
+        "Translation": "bleed",
+        "Example Sentence": "Ihr Kind hat sich verletzt. Es ______ stark.",
+        "Answer": "blutet"
+    },
+    {
+        "Word": "das Studium (Sg.)",
+        "Translation": "study",
+        "Example Sentence": "______ war sehr schwer.",
+        "Answer": "das Studium"
+    },
+    {
+        "Word": "der Tagesablauf, -e",
+        "Translation": "daily routine",
+        "Example Sentence": "Dort habe ich zum ersten Mal ______ in einem Krankenhaus kennengelernt.",
+        "Answer": "den Tagesablauf"
+    }
+]

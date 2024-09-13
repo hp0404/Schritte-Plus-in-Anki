@@ -1,0 +1,128 @@
+[
+    {
+        "Word": "vorhin",
+        "Translation": "earlier",
+        "Example Sentence": "Es tut mir leid, dass ich das ______ gesagt habe.",
+        "Answer": "vorhin"
+    },
+    {
+        "Word": "mittler-",
+        "Translation": "average",
+        "Example Sentence": "Er hat ______ Noten.",
+        "Answer": "mittlere"
+    },
+    {
+        "Word": "die Aktivität, -en",
+        "Translation": "activity",
+        "Example Sentence": "______ und Hobbys sind sehr wichtig.",
+        "Answer": "Freizeitaktivitäten"
+    },
+    {
+        "Word": "das System, -e",
+        "Translation": "system",
+        "Example Sentence": "In Deutschland hat jedes Bundesland ein eigenes ______. ",
+        "Answer": "Schulsystem"
+    },
+    {
+        "Word": "die (Fach-)Hochschule, -n",
+        "Translation": "university of applied sciences (practical, vocational, or applied sciences are the focus of study)",
+        "Example Sentence": "Nach dem Abitur kann man ______ besuchen.",
+        "Answer": "die Hochschule"
+    },
+    {
+        "Word": "die Universität, -en",
+        "Translation": "university",
+        "Example Sentence": "Nach den fünf Jahren an der ______ musste sie noch ein Jahr lang in einem Krankenhaus arbeiten.",
+        "Answer": "Universität"
+    },
+    {
+        "Word": "die Gesamtschule, -n",
+        "Translation": "comprehensive school",
+        "Example Sentence": "Nach der Grundschule kann man auf ______ gehen.",
+        "Answer": "die Gesamtschule"
+    },
+    {
+        "Word": "die Realschule, -n",
+        "Translation": "secondary school",
+        "Example Sentence": "1998 konnte ich auf ______ wechseln.",
+        "Answer": "die Realschule"
+    },
+    {
+        "Word": "die Hauptschule, -n / die Mittelschule, -n",
+        "Translation": "lower secondary school",
+        "Example Sentence": "Nach ______ kann man zur Berufsschule gehen.",
+        "Answer": "der Hauptschule"
+    },
+    {
+        "Word": "die Berufsschule, -n",
+        "Translation": "vocational school",
+        "Example Sentence": "Nach der Hauptschule kann man ______ gehen.",
+        "Answer": "zur Berufsschule"
+    },
+    {
+        "Word": "freiwillig",
+        "Translation": "voluntary",
+        "Example Sentence": "Kinder müssen nicht in die Krippe gehen. Der Besuch ist ______.",
+        "Answer": "freiwillig"
+    },
+    {
+        "Word": "die Krippe, -n",
+        "Translation": "daycare",
+        "Example Sentence": "Kinder müssen nicht in ______ gehen. Der Besuch ist freiwillig.",
+        "Answer": "die Krippe"
+    },
+    {
+        "Word": "die Physik (Sg.)",
+        "Translation": "physics",
+        "Example Sentence": "Ihre Lieblingsfächer waren Mathe und ______.",
+        "Answer": "Physik"
+    },
+    {
+        "Word": "die Sozialkunde (Sg.)",
+        "Translation": "social studies",
+        "Example Sentence": "Mein Lieblingsfach war ______.",
+        "Answer": "Sozialkunde"
+    },
+    {
+        "Word": "die Biologie (Sg.)",
+        "Translation": "biology",
+        "Example Sentence": "Mein Lieblingsfach war ______.",
+        "Answer": "Biologie"
+    },
+    {
+        "Word": "die Chemie (Sg.)",
+        "Translation": "chemistry",
+        "Example Sentence": "Dieses Schuljahr habe ich gute Noten in ______ und Mathe.",
+        "Answer": "Chemie"
+    },
+    {
+        "Word": "die Geografie (Sg.)",
+        "Translation": "geography",
+        "Example Sentence": "______ habe ich gehasst.",
+        "Answer": "Geografie"
+    },
+    {
+        "Word": "die Kunst (Sg.)",
+        "Translation": "art",
+        "Example Sentence": "Nur das Fach ______ hat mich wirklich interessiert.",
+        "Answer": "Kunst"
+    },
+    {
+        "Word": "die Geschichte (Sg.)",
+        "Translation": "history",
+        "Example Sentence": "______ habe ich geliebt.",
+        "Answer": "Geschichte"
+    },
+    {
+        "Word": "hassen (hat gehasst)",
+        "Translation": "to hate",
+        "Example Sentence": "Mathematik habe ich ______.",
+        "Answer": "gehasst"
+    },
+    {
+        "Word": "das Frühjahr (Sg.)",
+        "Translation": "spring",
+        "Example Sentence": "Wir bieten ______ spezielle Deutschkurse an.",
+        "Answer": "im Frühjahr"
+    }
+]
